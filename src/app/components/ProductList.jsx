@@ -1,16 +1,14 @@
 "use client";
-import Stack from "@mui/joy/Stack";
-import AspectRatio from "@mui/joy/AspectRatio";
 import Link from "@mui/joy/Link";
-import Button from "@mui/joy/Button";
 import Card from "@mui/joy/Card";
-import CardContent from "@mui/joy/CardContent";
+import Stack from "@mui/joy/Stack";
 import IconButton from "@mui/joy/IconButton";
 import Typography from "@mui/joy/Typography";
-import BookmarkAdd from "@mui/icons-material/BookmarkAddOutlined";
+import CardContent from "@mui/joy/CardContent";
+import AspectRatio from "@mui/joy/AspectRatio";
 import CardOverflow from "@mui/joy/CardOverflow";
+import AddCircleOutlineIcon from "@mui/icons-material/AddCircleOutline";
 import CheckCircleOutlineIcon from "@mui/icons-material/CheckCircleOutline";
-import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 const ProductList = () => {
 	const cardsArray = [1, 2, 3, 4];
@@ -34,39 +32,45 @@ const ProductList = () => {
 							</AspectRatio>
 						</CardOverflow>
 						<CardContent>
-							<Stack direction="row" justifyContent="space-between">
-								<Typography fontWeight="lg" level="body-sm" textColor="success.plainColor" lineHeight={1.1}>
-									Crema nutritiva para toda la familia
-								</Typography>
-								<Typography fontWeight="xs" level="body-xs" textColor="#9e9e9e" sx={{ ml: 1 }}>
-									400ml
-								</Typography>
-							</Stack>
-							<Link href="" level="body-xs" sx={{ fontWeight: 400, opacity: 0.7 }}>
-								Ver fragancias disponibles
-							</Link>
-							<Typography
-								fontWeight="xs"
-								level="body-xs"
-								textColor="neutral"
-								sx={{ opacity: 0.6 }}
-								startDecorator={<CheckCircleOutlineIcon sx={{ color: "neutral" }} />}>
-								Entrega inmediata
-							</Typography>
-							<Stack direction="row" sx={{ opacity: 0.8 }}>
-								<Typography fontWeight="xs" level="body-xs" color="danger">
-									Precio de revista:
-								</Typography>
-								<Typography fontWeight="xs" level="body-xs" color="danger" sx={{ ml: 1 }}>
-									$8900
-								</Typography>
-							</Stack>
-							<Stack direction="row" justifyContent="space-between">
-								<Typography fontWeight="md" level="body-md" textColor="success.plainColor">
-									$7000
-								</Typography>
-								<Button color="success" size="sm" variant="soft" startDecorator={<ShoppingCartIcon />}></Button>
-							</Stack>
+								{/* PRODUCT NAME AND SIZE */}
+								<Stack direction="row" justifyContent="space-between" sx={{ mb: 0.5 }}>
+									<Typography fontWeight="lg" level="body-sm" textColor="success.plainColor" lineHeight={1.1}>
+										Crema nutritiva
+									</Typography>
+									<Typography fontWeight="xs" level="body-xs" textColor="#9e9e9e" sx={{ ml: 1 }}>
+										400ml
+									</Typography>
+								</Stack>
+
+								{/* SEE FRAGANCES AND DELIVERY AVAILABILITY */}
+								<Stack direction="column">
+									<Link href="" level="body-xs" sx={{ fontWeight: 400, opacity: 0.7 }}>
+										Ver fragancias disponibles
+									</Link>
+									<Typography
+										fontWeight="xs"
+										level="body-xs"
+										textColor="neutral"
+										sx={{ opacity: 0.6 }}
+										startDecorator={<CheckCircleOutlineIcon sx={{ color: "neutral", fontSize: 15 }} />}>
+										Entrega inmediata
+									</Typography>
+								</Stack>
+
+								{/* ORIGINAL PRICE AND CLAUDIA PRICE */}
+								<Stack direction="column">
+									<Typography fontWeight="xs" level="body-xs" color="danger" sx={{ opacity: 0.8 }}>
+										Precio de revista: $8900
+									</Typography>
+									<Stack direction="row" justifyContent="space-between">
+										<Typography fontWeight="md" level="body-md" textColor="success.plainColor">
+											$7000
+										</Typography>
+										<IconButton color="success" size="xs">
+											{<AddCircleOutlineIcon />}
+										</IconButton>
+									</Stack>
+								</Stack>
 						</CardContent>
 					</Card>
 				);
