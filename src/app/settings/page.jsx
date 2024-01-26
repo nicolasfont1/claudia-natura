@@ -1,8 +1,5 @@
 import Box from "@mui/system/Box";
-import Link from "@mui/material/Link";
 import Typography from "@mui/joy/Typography";
-import IconButton from "@mui/joy/IconButton";
-import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import Navbar from "../components/Navbar";
 
 const SettingsPage = () => {
@@ -11,7 +8,7 @@ const SettingsPage = () => {
 			sx={{
 				minHeight: "100svh",
 			}}>
-			<Navbar />
+			<Navbar backPath={'/'} />
 			<Box
 				sx={{
 					display: "flex",
@@ -29,11 +26,6 @@ const SettingsPage = () => {
         <Typography fontWeight="md" level="body-lg" textColor="neutral">
           {`:)`}
 				</Typography>
-				<Link href={`/`}>
-					<IconButton sx={{ position: "absolute", left: 15, top: 15 }}>
-						{<ArrowBackIcon sx={{ color: "neutral.700" }} />}
-					</IconButton>
-				</Link>
 			</Box>
 		</Box>
 	);
