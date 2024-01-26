@@ -1,23 +1,26 @@
 "use client";
 import Stack from "@mui/joy/Stack";
 import ProductCard from "./ProductCard";
+import ProductsJSON from "../../resources/product-list.json";
 
 const ProductList = () => {
-	const cardsArray = [1, 2, 3, 4];
-
 	return (
 		<Stack direction="column" justifyContent="center" alignItems="center" spacing={1}>
-			{cardsArray.map((card, index) => {
+			{ProductsJSON.map((product, index) => {
 				return (
-					<ProductCard key={index} />
+					<ProductCard
+						key={index}
+						id={product.id}
+						name={product.name}
+						size={product.size}
+						inmediateDelivery={product.inmediateDelivery}
+						magazinePrice={product.magazinePrice}
+						price={product.price}
+						image={product.image}
+					/>
 				);
 			})}
 		</Stack>
 	);
 };
 export default ProductList;
-
-{
-	/* flor de lis, frambuesa y pimienta rosa, mango rosa y agua de coco, nuez pecán y cacao, mora roja y
-								jabuticaba, frutas rojas, hojas de limón y guanábana, avellana y casis */
-}
