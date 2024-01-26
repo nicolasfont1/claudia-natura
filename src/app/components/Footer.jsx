@@ -4,7 +4,7 @@ import FavoriteIcon from "@mui/icons-material/Favorite";
 
 const Footer = () => {
 	return (
-		<Stack justifyContent="center" alignItems="center" sx={{ bgcolor: "#dde8ee", width: "100%", height: "50px" }}>
+		<Stack justifyContent="center" alignItems="center" sx={{ bgcolor: "#dde8ee", width: "100%", height: "50px", position: 'absolute', bottom: 0 }}>
 			<Typography
 				fontWeight="sm"
 				level="body-sm"
