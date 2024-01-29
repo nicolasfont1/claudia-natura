@@ -8,7 +8,6 @@ import CardCover from "@mui/joy/CardCover";
 import CardContent from "@mui/joy/CardContent";
 import Typography from "@mui/joy/Typography";
 import Stack from "@mui/joy/Stack";
-import HeightIcon from '@mui/icons-material/Height';
 
 const Page = () => {
 	const path = usePathname();
