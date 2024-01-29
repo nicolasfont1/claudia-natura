@@ -5,7 +5,7 @@ import ProductsJSON from "../../resources/product-list.json";
 
 const ProductList = () => {
 	return (
-		<Stack direction="column" justifyContent="center" alignItems="center" spacing={1}>
+		<Stack direction="column" justifyContent="center" alignItems="center" spacing={2}>
 			{ProductsJSON.map((product, index) => {
 				return (
 					<ProductCard
