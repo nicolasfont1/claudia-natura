@@ -1,5 +1,5 @@
 "use client";
-import { CssVarsProvider } from '@mui/joy/styles';
+import { CssVarsProvider, extendTheme } from '@mui/joy/styles';
 import ProductList from './components/ProductList';
 import Footer from './components/Footer';
 import Tabs from '@mui/joy/Tabs';
@@ -12,10 +12,27 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import Stack from "@mui/joy/Stack";
 import Typography from "@mui/joy/Typography";
 import Box from "@mui/system/Box";
+import { tabClasses } from '@mui/joy/Tab';
 
 export default function Home() {
+  const theme = extendTheme({
+    components: {
+      JoyTab: {
+        styleOverrides: {
+          root: {
+            background: '#dde8ee',
+            [`&.${tabClasses.selected}`]: {
+              background: '#FFFFFF',
+              boxShadow: '0px -1px 5px rgba(255, 255, 255, 1)'
+            },
+          },
+        },
+      },
+    },
+  });
+
   return (
-    <CssVarsProvider>
+    <CssVarsProvider theme={theme}>
       <Stack direction="column" justifyContent="space-between" sx={{ minHeight: '100svh', position: 'relative' }}>
         <Box sx={{ paddingBottom: '50px' }}>
           <Navbar />
