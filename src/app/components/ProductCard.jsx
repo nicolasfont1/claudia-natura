@@ -15,8 +15,8 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 	return (
 		<Card orientation="horizontal" variant="soft" sx={{ width: "90%", bgcolor: "#efebe9", maxWidth: 540 }}>
 			<CardOverflow sx={{ bgcolor: "#fff", alignContent: "center" }}>
-				<AspectRatio ratio="1" sx={{ width: 140 }}>
-					<img src={image} loading="lazy" alt="" />
+				<AspectRatio ratio="1" sx={{ width: 140, alignSelf: 'center' }} objectFit="contain">
+					<img src={image} loading="lazy" alt="" style={{ background: "#FFFFFF" }} />
 				</AspectRatio>
 			</CardOverflow>
 			<CardContent>
