@@ -13,6 +13,7 @@ const ProductList = () => {
 						id={product.id}
 						name={product.name}
 						size={product.size}
+						sizeUnit={product.sizeUnit}
 						inmediateDelivery={product.inmediateDelivery}
 						magazinePrice={product.magazinePrice}
 						price={product.price}
