@@ -11,7 +11,7 @@ import AddCircleOutlineIcon from "@mui/icons-material/AddCircleOutline";
 import ByOrderText from "./ByOrderText";
 import InmediateDeliveryText from "./InmediateDeliveryText";
 
-const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, image }) => {
+const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, image, sizeUnit }) => {
 	return (
 		<Card orientation="horizontal" variant="soft" sx={{ width: "90%", bgcolor: "#efebe9", maxWidth: 540 }}>
 			<CardOverflow sx={{ bgcolor: "#fff", alignContent: "center" }}>
@@ -26,7 +26,7 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 						{name}
 					</Typography>
 					<Typography fontWeight="xs" level="body-xs" textColor="#9e9e9e" sx={{ ml: 1 }}>
-						{size}ml
+						{size}{sizeUnit}
 					</Typography>
 				</Stack>
 
