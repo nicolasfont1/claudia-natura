@@ -13,7 +13,7 @@ const Navbar = ({ backPath }) => {
 	return (
 		<Box
 			component="nav"
-			sx={{ bgcolor: "#dde8ee", display: "flex", justifyContent: "center", alignItems: "center", height: 60 }}>
+			sx={{ bgcolor: "#dde8ee", display: "flex", justifyContent: "center", alignItems: "center", height: 60, width: '100%' }}>
 			{path !== "/" && (
 				<Link href={backPath}>
 					<IconButton sx={{ position: "absolute", left: 15, top: 15 }}>
