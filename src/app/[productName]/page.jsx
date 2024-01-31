@@ -12,7 +12,6 @@ import ByOrderText from "../components/ByOrderText";
 import InmediateDeliveryText from "../components/InmediateDeliveryText";
 import Select from "@mui/joy/Select";
 import Option from "@mui/joy/Option";
-import YardIcon from "@mui/icons-material/Yard";
 import Divider from "@mui/joy/Divider";
 import Chip from "@mui/joy/Chip";
 import ShareIcon from "@mui/icons-material/Share";
