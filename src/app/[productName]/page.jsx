@@ -13,7 +13,12 @@ import InmediateDeliveryText from "../components/InmediateDeliveryText";
 import Select from "@mui/joy/Select";
 import Option from "@mui/joy/Option";
 import YardIcon from "@mui/icons-material/Yard";
-import InfoOutlinedIcon from "@mui/icons-material/InfoOutlined";
+import Divider from "@mui/joy/Divider";
+import Chip from "@mui/joy/Chip";
+import ShareIcon from "@mui/icons-material/Share";
+import IconButton from "@mui/joy/IconButton";
+import Button from '@mui/joy/Button';
+import AddIcon from '@mui/icons-material/Add';
 
 const Page = () => {
 	const path = usePathname();
@@ -50,42 +55,67 @@ const Page = () => {
 						</Stack>
 					</CardContent>
 				</Card>
-				<Box sx={{ minHeight: "500px", p: 2 }}>
+				<Box sx={{ px: 2, pt: 1 }}>
 					<Stack direction="column">
-						{product.inmediateDelivery ? <InmediateDeliveryText /> : <ByOrderText />}
-						{product.vegan && (
-							<Typography
-								fontWeight="md"
-								level="h4"
-								textColor="success.plainColor"
-								sx={{ opacity: 0.9 }}
-								startDecorator={<YardIcon />}>
-								Producto vegano
-							</Typography>
-						)}
-						<Card variant="soft" sx={{ mt: 1, bgcolor: "#00000030" }}>
-							<CardContent>
-								<Stack direction="row" justifyContent="space-between">
-									<Stack direction="column" justifyContent="space-between">
-										<Typography fontWeight="xs" level="body-md" textColor="neutral" sx={{ opacity: 0.8 }}>
-											Precio de revista: ${product.magazinePrice}.
-										</Typography>
-										<Typography fontWeight="md" level="h4" textColor="neutral">
-											${product.price}
-										</Typography>
-									</Stack>
-								</Stack>
-							</CardContent>
-						</Card>
+						<Stack direction="row" justifyContent="space-between">
+							<Stack>
+								<Typography fontWeight="xs" level="body-md" textColor="neutral.600">
+									Precio de revista: ${product.magazinePrice}.
+								</Typography>
+								<Typography fontWeight="md" level="h2" textColor="neutral">
+									${product.price}
+								</Typography>
+							</Stack>
+							<Stack justifyContent="center">
+								<IconButton size="lg" variant="outlined" sx={{ background: "#90949790", borderColor: "neutral.600" }}>
+									{<ShareIcon />}
+								</IconButton>
+							</Stack>
+						</Stack>
+						<Divider orientation="horizontal" sx={{ mt: 1, mb: 2 }} />
+						<Stack direction="row" justifyContent="space-around">
+							{product.inmediateDelivery ? (
+								<Chip variant="soft" sx={{ background: "#616A6B" }} size="sm">
+									<InmediateDeliveryText />
+								</Chip>
+							) : (
+								<Chip variant="soft" sx={{ background: "#616A6B" }} size="sm">
+									<ByOrderText />
+								</Chip>
+							)}
+							{product.vegan && (
+								<Chip variant="soft" sx={{ background: "#52BE80" }} size="sm">
+									<Typography
+										fontWeight="md"
+										level="title-sm"
+										textColor="success.plainColor"
+										startDecorator={<YardIcon sx={{ fontSize: "18" }} />}>
+										Producto vegano
+									</Typography>
+								</Chip>
+							)}
+						</Stack>
+						<Divider orientation="horizontal" sx={{ mt: 2, mb: 1 }} />
 						<Typography fontWeight="md" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.6, mt: 1 }}>
 							Disponible en:
 						</Typography>
-						<Typography fontWeight="md" level="body-sm" textColor="neutral.600" sx={{ opacity: 0.8 }}>
+						<Typography fontWeight="md" level="body-sm" textColor="neutral.500">
 							{product.variants.map((variant, index) =>
 								index !== product.variants.length - 1 ? variant + ", " : variant + "."
 							)}
 						</Typography>
+						{product.info && (
+							<>
+								<Typography fontWeight="md" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.6, mt: 1 }}>
+									Acerca del producto:
+								</Typography>
+								<Typography fontWeight="md" level="body-sm" textColor="neutral.500">
+									{product.info}
+								</Typography>
+							</>
+						)}
 					</Stack>
+					<Divider orientation="horizontal" sx={{ my: 2 }} />
 					<Card variant="soft" sx={{ mt: 1, bgcolor: "#00000030" }}>
 						<CardContent>
 							<Stack direction="row" justifyContent="space-between">
@@ -128,14 +158,7 @@ const Page = () => {
 							</Stack>
 						</CardContent>
 					</Card>
-					<Typography
-						startDecorator={<InfoOutlinedIcon />}
-						fontWeight="md"
-						level="body-xs"
-						textColor="neutral.600"
-						sx={{ opacity: 0.8, mt: 1 }}>
-						{product.info}
-					</Typography>
+					<Button sx={{ width: '100%', my: 3 }} startDecorator={<AddIcon />} color="success" >Agregar a mi pedido</Button>
 				</Box>
 			</Box>
 		</Stack>
@@ -143,22 +166,3 @@ const Page = () => {
 };
 
 export default Page;
-
-// {
-// 	"id": "lapiz-cejas",
-// 	"name": "Lápiz para cejas",
-// 	"size": 1.14,
-// 	"sizeUnit": "g",
-// 	"inmediateDelivery": false,
-// 	"magazinePrice": 8630,
-// 	"price": 0,
-// 	"fragances": [
-// 		"castaño claro",
-// 		"castaño"
-// 	],
-// 	"vegan": true,
-// 	"made": ["Brasil"],
-// 	"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7123cb65/1200x1200/10156_1.jpg",
-// 	"cathegory": "belleza",
-// 	"info": ""
-// }
