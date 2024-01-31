@@ -11,7 +11,8 @@ const ByOrderText = () => {
 		<Typography
 			fontWeight={isProductList ? "xs" : "md"}
 			level={isProductList ? "body-xs" : "title-sm"}
-			textColor={isProductList ? "#909497" : "neutral.200" }
+			textColor={isProductList ? "#909497" : "neutral.200"}
+			sx={{ mr: 1 }}
 			startDecorator={<AccessTimeIcon sx={{ fontSize: `${isProductList ? "15" : "18"}`, color: `${isProductList ? "#909497" : "neutral.200"}` }} />}>
 			Por encargo
 		</Typography>
