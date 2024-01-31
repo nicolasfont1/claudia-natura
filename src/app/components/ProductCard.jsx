@@ -13,7 +13,7 @@ import InmediateDeliveryText from "./InmediateDeliveryText";
 
 const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, image, sizeUnit }) => {
 	return (
-		<Card orientation="horizontal" variant="soft" sx={{ width: "90%", bgcolor: "#efebe9", maxWidth: 540 }}>
+		<Card orientation="horizontal" variant="soft" sx={{ width: "91%", bgcolor: "#efebe9", maxWidth: 540 }}>
 			<CardOverflow sx={{ bgcolor: "#fff", alignContent: "center" }}>
 				<AspectRatio ratio="1" sx={{ width: 140, alignSelf: 'center' }} objectFit="contain">
 					<img src={image} loading="lazy" alt="" style={{ background: "#FFFFFF" }} />
