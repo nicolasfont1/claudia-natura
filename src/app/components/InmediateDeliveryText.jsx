@@ -10,10 +10,9 @@ const InmediateDeliveryText = () => {
 	return (
 		<Typography
 			fontWeight={isProductList ? "xs" : "md"}
-			level={isProductList ? "body-xs" : "h4"}
-			textColor="neutral"
-			sx={{ opacity: 0.6 }}
-			startDecorator={<CheckCircleOutlineIcon sx={{ color: "neutral", fontSize: `${isProductList ? "15" : "18"}` }} />}>
+			level={isProductList ? "body-xs" : "title-sm"}
+			textColor={isProductList ? "#909497" : "neutral.200" }
+			startDecorator={<CheckCircleOutlineIcon sx={{ fontSize: `${isProductList ? "15" : "18"}`, color: `${isProductList ? "#909497" : "neutral.200"}` }} />}>
 			Entrega inmediata
 		</Typography>
 	);
