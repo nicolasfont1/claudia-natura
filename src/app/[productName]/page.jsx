@@ -19,6 +19,7 @@ import ShareIcon from "@mui/icons-material/Share";
 import IconButton from "@mui/joy/IconButton";
 import Button from '@mui/joy/Button';
 import AddIcon from '@mui/icons-material/Add';
+import GrassIcon from '@mui/icons-material/Grass';
 
 const Page = () => {
 	const path = usePathname();
@@ -75,21 +76,21 @@ const Page = () => {
 						<Divider orientation="horizontal" sx={{ mt: 1, mb: 2 }} />
 						<Stack direction="row" justifyContent="space-around">
 							{product.inmediateDelivery ? (
-								<Chip variant="soft" sx={{ background: "#616A6B" }} size="sm">
+								<Chip variant="soft" sx={{ background: "#616A6B", borderRadius: 5 }} size="sm">
 									<InmediateDeliveryText />
 								</Chip>
 							) : (
-								<Chip variant="soft" sx={{ background: "#616A6B" }} size="sm">
+								<Chip variant="soft" sx={{ background: "#616A6B", borderRadius: 5 }} size="sm">
 									<ByOrderText />
 								</Chip>
 							)}
 							{product.vegan && (
-								<Chip variant="soft" sx={{ background: "#52BE80" }} size="sm">
+								<Chip variant="soft" sx={{ background: "#52BE80", borderRadius: 5 }} size="sm">
 									<Typography
 										fontWeight="md"
 										level="title-sm"
 										textColor="success.plainColor"
-										startDecorator={<YardIcon sx={{ fontSize: "18" }} />}>
+										startDecorator={<GrassIcon sx={{ fontSize: "18" }} />}>
 										Producto vegano
 									</Typography>
 								</Chip>
