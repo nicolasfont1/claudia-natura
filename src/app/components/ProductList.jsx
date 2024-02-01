@@ -2,24 +2,30 @@
 import Stack from "@mui/joy/Stack";
 import ProductCard from "./ProductCard";
 import ProductsJSON from "../../resources/product-list.json";
+import TestProductsJSON from "../../resources/test-product-list.json";
 import { useState } from "react";
 import SearchHub from "./SearchHub";
 import Box from "@mui/system/Box";
 
 const ProductList = () => {
-	const [filteredProducts, setFilteredProducts] = useState([]);
 	const [productName, setProductName] = useState("");
+	
+	const getSearchProducts = (query, products) => {
+		if (!query) return products;
+		return products.filter((product) => product.name.toLowerCase().includes(query.toLowerCase()));
+	};
+	
+	const filteredProducts = getSearchProducts(productName, TestProductsJSON);
 
 	const handleSearchbar = (event) => {
 		setProductName(event.target.value);
-		console.log(productName)
 	};
 
 	return (
 		<Box>
-			<SearchHub handleSearchbar={ handleSearchbar } />
+			<SearchHub handleSearchbar={handleSearchbar} />
 			<Stack direction="column" justifyContent="center" alignItems="center" spacing={2} sx={{ px: 1 }}>
-				{/* {ProductsJSON.map((product, index) => {
+				{filteredProducts.map((product, index) => {
 					return (
 						<ProductCard
 							key={index}
@@ -33,7 +39,7 @@ const ProductList = () => {
 							image={product.image}
 						/>
 					);
-				})} */}
+				})}
 			</Stack>
 		</Box>
 	);
