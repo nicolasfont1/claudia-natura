@@ -6,26 +6,26 @@ import SearchIcon from "@mui/icons-material/Search";
 import IconButton from "@mui/joy/IconButton";
 import CloseRounded from "@mui/icons-material/CloseRounded";
 
-const SearchHub = ({ action, productCathegory, setProductCathegory, setProductName, productName, handleKeyUp }) => {
+const SearchHub = ({ action, productCathegory, setProductCathegory, setProductName, productName, handleKeyUp, handleClearInput }) => {
 	return (
 		<Stack sx={{ m: 1 }} direction="row" justifyContent="space-between">
 			<Input
-				value={productName}
 				variant="soft"
 				size="sm"
 				placeholder="Búsqueda..."
+				value={productName}
+				onChange={(event) => setProductName(event.target.value)}
+				onKeyUp={handleKeyUp}
 				endDecorator={
 					productName ? (
 						<IconButton
+							onClick={handleClearInput}
 							sx={{ maxHeight: 32 }}
 							size="sm"
 							variant="plain"
 							color="neutral"
 							onMouseDown={(event) => {
 								event.stopPropagation();
-							}}
-							onClick={() => {
-								setProductName("");
 							}}>
 							<CloseRounded />
 						</IconButton>
@@ -36,17 +36,15 @@ const SearchHub = ({ action, productCathegory, setProductCathegory, setProductNa
 					)
 				}
 				sx={{ width: "60%", "--Input-focusedThickness": "0rem", fontSize: 16 }}
-				onChange={(event) => setProductName(event.target.value)}
-				onKeyUp={handleKeyUp}
 			/>
 			<Select
 				variant="soft"
 				size="sm"
 				placeholder="Filtrar"
 				sx={{ width: "33%", maxHeight: 32, fontSize: 15 }}
+				action={action}
 				onChange={(event, newValue) => setProductCathegory(newValue)}
 				value={productCathegory}
-				action={action}
 				{...(productCathegory && {
 					endDecorator: (
 						<IconButton
