@@ -8,7 +8,6 @@ import Box from "@mui/system/Box";
 import CircularProgress from "@mui/joy/CircularProgress";
 
 const ProductList = () => {
-	// PENSAR COMO IMPLEMENTAR LA BÚSQUEDA Y FILTRADO
 	const [productList, setProductList] = useState([]);
 	const [currentProductAmount, setCurrentProductAmount] = useState(9);
 
@@ -27,8 +26,14 @@ const ProductList = () => {
 
 	const handleKeyUp = (event) => {
 		if (event.keyCode === 13) {
-			console.log(event.target.value);
+			setProductList(getSearchProducts(productCathegory, productName, ProductsJSON));
 		}
+	};
+
+	const handleClearInput = () => {
+		setProductName('');
+		setCurrentProductAmount(9);
+		setProductList([...ProductsJSON.slice(0, 9)])
 	};
 
 	const getSearchProducts = (productFilter, productQuery, products) => {
@@ -42,7 +47,9 @@ const ProductList = () => {
 	};
 
 	useEffect(() => {
-		setProductList([...productList, ...ProductsJSON.slice(currentProductAmount - 9, currentProductAmount)]);
+		if (!productName) {
+			setProductList([...productList, ...ProductsJSON.slice(currentProductAmount - 9, currentProductAmount)]);
+		}
 		window.addEventListener("scroll", handleScroll);
 		return () => {
 			window.removeEventListener("scroll", handleScroll);
@@ -64,13 +71,9 @@ const ProductList = () => {
 						productName={productName}
 						setProductName={setProductName}
 						handleKeyUp={handleKeyUp}
+						handleClearInput={handleClearInput}
 					/>
-					<Stack
-						direction="column"
-						justifyContent="center"
-						alignItems="center"
-						spacing={2}
-						sx={{ px: 1, pb: 1 }}>
+					<Stack direction="column" justifyContent="center" alignItems="center" spacing={2} sx={{ px: 1, pb: 1 }}>
 						{productList.map((product, index) => {
 							return (
 								<ProductCard
