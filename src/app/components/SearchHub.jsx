@@ -6,7 +6,17 @@ import SearchIcon from "@mui/icons-material/Search";
 import IconButton from "@mui/joy/IconButton";
 import CloseRounded from "@mui/icons-material/CloseRounded";
 
-const SearchHub = ({ action, productCathegory, setProductCathegory, setProductName, productName, handleKeyUp, handleClearInput }) => {
+const SearchHub = ({
+	action,
+	productCathegory,
+	setProductCathegory,
+	setProductName,
+	productName,
+	handleKeyUp,
+	handleClearInput,
+	showingSearch,
+	handleSearchClick,
+}) => {
 	return (
 		<Stack sx={{ m: 1 }} direction="row" justifyContent="space-between">
 			<Input
@@ -17,7 +27,7 @@ const SearchHub = ({ action, productCathegory, setProductCathegory, setProductNa
 				onChange={(event) => setProductName(event.target.value)}
 				onKeyUp={handleKeyUp}
 				endDecorator={
-					productName ? (
+					showingSearch ? (
 						<IconButton
 							onClick={handleClearInput}
 							sx={{ maxHeight: 32 }}
@@ -30,7 +40,7 @@ const SearchHub = ({ action, productCathegory, setProductCathegory, setProductNa
 							<CloseRounded />
 						</IconButton>
 					) : (
-						<IconButton size="sm">
+						<IconButton size="sm" onClick={handleSearchClick}>
 							<SearchIcon />
 						</IconButton>
 					)
@@ -56,7 +66,7 @@ const SearchHub = ({ action, productCathegory, setProductCathegory, setProductNa
 								event.stopPropagation();
 							}}
 							onClick={() => {
-								setProductCathegory(null);
+								handleClearInput()
 								action.current?.focusVisible();
 							}}>
 							<CloseRounded />
