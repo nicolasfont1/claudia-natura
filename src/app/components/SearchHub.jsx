@@ -20,6 +20,7 @@ const SearchHub = ({
 	return (
 		<Stack sx={{ m: 1 }} direction="row" justifyContent="space-between">
 			<Input
+				name="product"
 				variant="soft"
 				size="sm"
 				placeholder="Búsqueda..."
@@ -48,6 +49,7 @@ const SearchHub = ({
 				sx={{ width: "60%", "--Input-focusedThickness": "0rem", fontSize: 16 }}
 			/>
 			<Select
+				name="cathegory"
 				variant="soft"
 				size="sm"
 				placeholder="Filtrar"
