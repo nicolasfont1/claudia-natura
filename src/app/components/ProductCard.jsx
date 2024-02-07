@@ -1,5 +1,5 @@
 "use client";
-import Link from "@mui/joy/Link";
+import Link from "next/link";
 import Card from "@mui/joy/Card";
 import Stack from "@mui/joy/Stack";
 import IconButton from "@mui/joy/IconButton";
@@ -32,8 +32,8 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 
 				{/* SEE FRAGANCES AND DELIVERY AVAILABILITY */}
 				<Stack direction="column">
-					<Link href={`/${"crema-nutritiva"}`} level="body-xs" sx={{ fontWeight: 400, opacity: 0.7 }}>
-						Ver fragancias disponibles
+					<Link href={`/${id}`} style={{textDecoration: 'none'}}>
+						<Typography level="body-xs" sx={{ fontWeight: 400, opacity: 0.7 }} color="primary">Ver fragancias disponibles</Typography>
 					</Link>
 					{inmediateDelivery ? <InmediateDeliveryText /> : <ByOrderText />}
 				</Stack>
@@ -48,8 +48,8 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 							${price}
 						</Typography>
 						<IconButton color="success" size="xs">
-							<Link href={`/${id}`} color="success">
-								{<AddCircleOutlineIcon />}
+							<Link href={`/${id}`}>
+								{<AddCircleOutlineIcon color="success" />}
 							</Link>
 						</IconButton>
 					</Stack>
