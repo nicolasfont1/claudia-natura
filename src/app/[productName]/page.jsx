@@ -16,16 +16,78 @@ import Divider from "@mui/joy/Divider";
 import Chip from "@mui/joy/Chip";
 import ShareIcon from "@mui/icons-material/Share";
 import IconButton from "@mui/joy/IconButton";
-import Button from '@mui/joy/Button';
-import AddIcon from '@mui/icons-material/Add';
-import GrassIcon from '@mui/icons-material/Grass';
+import Button from "@mui/joy/Button";
+import AddIcon from "@mui/icons-material/Add";
+import GrassIcon from "@mui/icons-material/Grass";
+import { useDispatch } from "react-redux";
+import { addItem } from "@/store/slice";
+import { useState } from "react";
+import Snackbar from "@mui/joy/Snackbar";
+import NewReleasesIcon from "@mui/icons-material/NewReleases";
+import CheckCircleIcon from "@mui/icons-material/CheckCircle";
+import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
+import { useRouter } from "next/navigation";
 
 const Page = () => {
+	const router = useRouter();
 	const path = usePathname();
 	const product = ProductJSON.find((product) => product.id === path.replace("/", ""));
 
+	const [selectedProduct, setSelectedProduct] = useState({
+		name: product.name,
+		image: product.image,
+		variant: "",
+		amount: 1,
+		price: product.price,
+	});
+
+	const dispatch = useDispatch();
+
+	const addItemToCart = () => {
+		if (selectedProduct.variant) {
+			dispatch(addItem(selectedProduct))
+			setOpenSnackbarSuccess(true);
+			setTimeout(() => {
+				router.push('/')
+			}, 4500);
+		} else {
+			setOpenSnackbarVariant(true);
+		}
+	};
+
+	const [openSnackbarVariant, setOpenSnackbarVariant] = useState(false);
+	const [openSnackbarSuccess, setOpenSnackbarSuccess] = useState(false);
+	const vertical = "top";
+	const horizontal = "center";
+
 	return (
 		<Stack direction="column" justifyContent="center">
+			<Snackbar
+				anchorOrigin={{ vertical, horizontal }}
+				variant="soft"
+				size="lg"
+				color="danger"
+				autoHideDuration={5000}
+				open={openSnackbarVariant}
+				onClose={() => {
+					setOpenSnackbarVariant(false);
+				}}
+				startDecorator={<NewReleasesIcon />}>
+				¡Acordate de elegir una variante!
+			</Snackbar>
+			<Snackbar
+				anchorOrigin={{ vertical, horizontal }}
+				variant="soft"
+				size="lg"
+				color="success"
+				autoHideDuration={3000}
+				open={openSnackbarSuccess}
+				onClose={() => {
+					setOpenSnackbarSuccess(false);
+				}}
+				startDecorator={<CheckCircleIcon />}>
+				¡El producto se sumó a tu pedido!
+			</Snackbar>
 			<Navbar backPath={"/"} />
 			<Box sx={{ width: "100%", maxWidth: 540 }}>
 				<Card sx={{ minHeight: "400px", borderRadius: 0 }} variant="plain">
@@ -124,10 +186,12 @@ const Page = () => {
 										Seleccionar variante
 									</Typography>
 									<Select
+										name="variant"
 										size="md"
 										variant="soft"
 										placeholder="Elegir..."
 										color="neutral"
+										onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, variant: newValue })}
 										sx={{ bgcolor: "#00000020", color: "#000000", minWidth: 200, maxWidth: 220 }}>
 										{product.variants.map((variant, index) => {
 											return (
@@ -143,10 +207,12 @@ const Page = () => {
 										Cantidad
 									</Typography>
 									<Select
+										name="amount"
 										size="md"
 										variant="soft"
 										defaultValue={1}
 										color="neutral"
+										onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, amount: newValue })}
 										sx={{ bgcolor: "#00000020", color: "#000000" }}>
 										<Option value={1}>1</Option>
 										<Option value={2}>2</Option>
@@ -158,7 +224,27 @@ const Page = () => {
 							</Stack>
 						</CardContent>
 					</Card>
-					<Button sx={{ width: '100%', my: 3 }} startDecorator={<AddIcon />} color="success" >Agregar a mi pedido</Button>
+					<Button sx={{ width: "100%", my: 3 }} startDecorator={<AddIcon />} color="success" onClick={addItemToCart}>
+						Agregar a mi pedido
+					</Button>
+					<Divider orientation="horizontal" sx={{ mb: 0.5, fontSize: 14 }}>
+						¿Te confundiste?
+					</Divider>
+					<Typography
+						fontWeight="md"
+						level="body-xs"
+						textColor="neutral.600"
+						sx={{ opacity: 0.6, textAlign: "center" }}>
+						¡No te preocupes!
+					</Typography>
+					<Typography
+						fontWeight="md"
+						level="body-xs"
+						textColor="neutral.600"
+						sx={{ opacity: 0.6, alignItems: "center", display: "flex", justifyContent: "center", mb: 2 }}>
+						Podés revisar tu orden desde la pestaña "Mi pedido <ShoppingCartIcon sx={{ fontSize: 13, ml: 0.3 }} />
+						".
+					</Typography>
 				</Box>
 			</Box>
 		</Stack>
