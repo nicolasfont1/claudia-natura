@@ -13,6 +13,7 @@ import Stack from "@mui/joy/Stack";
 import Typography from "@mui/joy/Typography";
 import Box from "@mui/system/Box";
 import { tabClasses } from '@mui/joy/Tab';
+import Cart from './components/Cart';
 
 export default function Home() {
   const theme = extendTheme({
@@ -59,7 +60,7 @@ export default function Home() {
               <ProductList />
             </TabPanel>
             <TabPanel value={1} sx={{ bgcolor: '#bcaaa4' }}>
-              <b>Carrito de compras</b>
+              <Cart />
             </TabPanel>
           </Tabs>
           <Footer />
