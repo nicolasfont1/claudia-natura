@@ -59,7 +59,7 @@ export default function Home() {
             <TabPanel value={0} sx={{ bgcolor: '#bcaaa4', p: 0 }}>
               <ProductList />
             </TabPanel>
-            <TabPanel value={1} sx={{ bgcolor: '#bcaaa4' }}>
+            <TabPanel value={1} sx={{ bgcolor: '#bcaaa4', p: 0 }}>
               <Cart />
             </TabPanel>
           </Tabs>
