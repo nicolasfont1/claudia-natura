@@ -49,7 +49,7 @@ const Page = () => {
 			setOpenSnackbarSuccess(true);
 			setTimeout(() => {
 				router.push('/')
-			}, 4500);
+			}, 4000);
 		} else {
 			setOpenSnackbarVariant(true);
 		}
