@@ -1,11 +1,9 @@
-import Box from "@mui/system/Box";
 import Stack from "@mui/joy/Stack";
 import AspectRatio from "@mui/joy/AspectRatio";
 import Card from "@mui/joy/Card";
 import CardContent from "@mui/joy/CardContent";
 import CardOverflow from "@mui/joy/CardOverflow";
 import Typography from "@mui/joy/Typography";
-import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import MoreHorizIcon from "@mui/icons-material/MoreHoriz";
 import Dropdown from "@mui/joy/Dropdown";
 import Menu from "@mui/joy/Menu";
@@ -21,7 +19,7 @@ const CartItemCard = ({ name, image, variant, amount, price }) => {
 
 	return (
     <Card orientation="horizontal" variant="outlined" sx={{ width: "95%", bgcolor: "#efebe9", maxWidth: 540, p: 0.8 }}>
-        <DeleteItemModal setModalOpen={setModalOpen} modalOpen={modalOpen} />
+        <DeleteItemModal setModalOpen={setModalOpen} modalOpen={modalOpen} itemName={name} itemVariant={variant} />
         <CardOverflow sx={{ background: "#FFFFFF" }}>
           <AspectRatio ratio="1" sx={{ width: 90, alignSelf: "center" }} objectFit="contain">
             <img src={image} loading="lazy" style={{ background: "#FFFFFF" }} />
