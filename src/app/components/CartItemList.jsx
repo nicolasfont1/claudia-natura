@@ -1,4 +1,3 @@
-import Box from "@mui/system/Box";
 import Stack from "@mui/joy/Stack";
 import CartItemCard from "./CartItemCard";
 
