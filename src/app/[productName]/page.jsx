@@ -22,11 +22,10 @@ import GrassIcon from "@mui/icons-material/Grass";
 import { useDispatch } from "react-redux";
 import { addItem } from "@/store/slice";
 import { useState } from "react";
-import Snackbar from "@mui/joy/Snackbar";
-import NewReleasesIcon from "@mui/icons-material/NewReleases";
-import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import { useRouter } from "next/navigation";
+import SnackbarChooseVariant from "../components/SnackbarChooseVariant";
+import SnackbarAddedItem from "../components/SnackbarAddedItem";
 
 const Page = () => {
 	const router = useRouter();
@@ -42,14 +41,13 @@ const Page = () => {
 	});
 
 	const dispatch = useDispatch();
+	const [showGoBack, setShowGoBack] = useState(false);
 
 	const addItemToCart = () => {
 		if (selectedProduct.variant) {
-			dispatch(addItem(selectedProduct))
+			dispatch(addItem(selectedProduct));
 			setOpenSnackbarSuccess(true);
-			setTimeout(() => {
-				router.push('/')
-			}, 4000);
+			setShowGoBack(true);
 		} else {
 			setOpenSnackbarVariant(true);
 		}
@@ -57,37 +55,16 @@ const Page = () => {
 
 	const [openSnackbarVariant, setOpenSnackbarVariant] = useState(false);
 	const [openSnackbarSuccess, setOpenSnackbarSuccess] = useState(false);
-	const vertical = "top";
-	const horizontal = "center";
 
 	return (
 		<Stack direction="column" justifyContent="center">
-			<Snackbar
-				anchorOrigin={{ vertical, horizontal }}
-				variant="soft"
-				size="lg"
-				color="danger"
-				autoHideDuration={5000}
-				open={openSnackbarVariant}
-				onClose={() => {
-					setOpenSnackbarVariant(false);
-				}}
-				startDecorator={<NewReleasesIcon />}>
-				¡Acordate de elegir una variante!
-			</Snackbar>
-			<Snackbar
-				anchorOrigin={{ vertical, horizontal }}
-				variant="soft"
-				size="lg"
-				color="success"
-				autoHideDuration={3000}
-				open={openSnackbarSuccess}
-				onClose={() => {
-					setOpenSnackbarSuccess(false);
-				}}
-				startDecorator={<CheckCircleIcon />}>
-				¡El producto se sumó a tu pedido!
-			</Snackbar>
+			<SnackbarChooseVariant
+				openSnackbarVariant={openSnackbarVariant}
+				setOpenSnackbarVariant={setOpenSnackbarVariant}
+			/>
+			<SnackbarAddedItem
+				openSnackbarSuccess={openSnackbarSuccess}
+				setOpenSnackbarSuccess={setOpenSnackbarSuccess} />
 			<Navbar backPath={"/"} />
 			<Box sx={{ width: "100%", maxWidth: 540 }}>
 				<Card sx={{ minHeight: "400px", borderRadius: 0 }} variant="plain">
@@ -129,7 +106,8 @@ const Page = () => {
 								</Typography>
 							</Stack>
 							<Stack justifyContent="center">
-								<IconButton size="lg" variant="outlined" sx={{ background: "#90949790", borderColor: "neutral.600" }}>
+								<IconButton size="lg" variant="outlined" sx={{ background: "#90949790", borderColor: "neutral.600" }} onClick={() => navigator.clipboard.writeText(window.location.href)}>
+									{/* CORREGIR ESTO, NO ANDA EN CELULAR */}
 									{<ShareIcon />}
 								</IconButton>
 							</Stack>
@@ -224,9 +202,15 @@ const Page = () => {
 							</Stack>
 						</CardContent>
 					</Card>
-					<Button sx={{ width: "100%", my: 3 }} startDecorator={<AddIcon />} color="success" onClick={addItemToCart}>
-						Agregar a mi pedido
-					</Button>
+					{!showGoBack ? (
+						<Button sx={{ width: "100%", my: 3 }} startDecorator={<AddIcon />} color="success" onClick={addItemToCart}>
+							Agregar a mi pedido
+						</Button>
+					) : (
+						<Button sx={{ width: "100%", my: 3 }} color="warning" variant="outlined" onClick={() => router.push("/")}>
+							Volver al catálogo
+						</Button>
+					)}
 					<Divider orientation="horizontal" sx={{ mb: 0.5, fontSize: 14 }}>
 						¿Te confundiste?
 					</Divider>
