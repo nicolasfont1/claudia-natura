@@ -55,7 +55,7 @@ const Cart = () => {
 	}, [cartState]);
 
 	return (
-		<Box>
+		<Box sx={{width: '100%'}}>
 			{!cartState.length ? (
 				<EmptyCartText />
 			) : (
