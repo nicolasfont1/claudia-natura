@@ -26,6 +26,7 @@ import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import { useRouter } from "next/navigation";
 import SnackbarChooseVariant from "../components/SnackbarChooseVariant";
 import SnackbarAddedItem from "../components/SnackbarAddedItem";
+import SnackbarShare from "../components/SnackbarShare";
 
 const Page = () => {
 	const router = useRouter();
@@ -53,6 +54,22 @@ const Page = () => {
 		}
 	};
 
+	const shareURL = () => {
+		if (navigator.share) {
+			navigator
+				.share({
+					title: "Compartí el link de este producto:",
+					text: "",
+					url: window.location.href,
+				})
+				.then(() => console.log("success"))
+				.catch((error) => console.log("error", error));
+		} else {
+			setOpenSnackbarShare(true);
+		}
+	};
+
+	const [openSnackbarShare, setOpenSnackbarShare] = useState(false);
 	const [openSnackbarVariant, setOpenSnackbarVariant] = useState(false);
 	const [openSnackbarSuccess, setOpenSnackbarSuccess] = useState(false);
 
@@ -62,9 +79,8 @@ const Page = () => {
 				openSnackbarVariant={openSnackbarVariant}
 				setOpenSnackbarVariant={setOpenSnackbarVariant}
 			/>
-			<SnackbarAddedItem
-				openSnackbarSuccess={openSnackbarSuccess}
-				setOpenSnackbarSuccess={setOpenSnackbarSuccess} />
+			<SnackbarAddedItem openSnackbarSuccess={openSnackbarSuccess} setOpenSnackbarSuccess={setOpenSnackbarSuccess} />
+			<SnackbarShare openSnackbarShare={openSnackbarShare} setOpenSnackbarShare={setOpenSnackbarShare} />
 			<Navbar backPath={"/"} />
 			<Box sx={{ width: "100%", maxWidth: 540 }}>
 				<Card sx={{ minHeight: "400px", borderRadius: 0 }} variant="plain">
@@ -106,9 +122,12 @@ const Page = () => {
 								</Typography>
 							</Stack>
 							<Stack justifyContent="center">
-								<IconButton size="lg" variant="outlined" sx={{ background: "#90949790", borderColor: "neutral.600" }} onClick={() => navigator.clipboard.writeText(window.location.href)}>
-									{/* CORREGIR ESTO, NO ANDA EN CELULAR */}
-									{<ShareIcon />}
+								<IconButton
+									size="lg"
+									variant="outlined"
+									sx={{ background: "#90949790", borderColor: "neutral.600" }}
+									onClick={() => shareURL()}>
+									<ShareIcon />
 								</IconButton>
 							</Stack>
 						</Stack>
