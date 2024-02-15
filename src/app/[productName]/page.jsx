@@ -45,7 +45,7 @@ const Page = () => {
 	const [showGoBack, setShowGoBack] = useState(false);
 
 	const addItemToCart = () => {
-		if (selectedProduct.variant) {
+		if (selectedProduct.variant || product.variants.length === 0) {
 			dispatch(addItem(selectedProduct));
 			setOpenSnackbarSuccess(true);
 			setShowGoBack(true);
@@ -75,7 +75,17 @@ const Page = () => {
 
 	return (
 		<Stack alignItems="center">
-			<Stack direction="column" justifyContent="center" sx={{maxWidth: 540, width: '100%', position: 'relative', borderLeft: 1, borderRight: 1, borderColor: '#dde8ee'}}>
+			<Stack
+				direction="column"
+				justifyContent="center"
+				sx={{
+					maxWidth: 540,
+					width: "100%",
+					position: "relative",
+					borderLeft: 1,
+					borderRight: 1,
+					borderColor: "#dde8ee",
+				}}>
 				<SnackbarChooseVariant
 					openSnackbarVariant={openSnackbarVariant}
 					setOpenSnackbarVariant={setOpenSnackbarVariant}
@@ -178,19 +188,21 @@ const Page = () => {
 						<Divider orientation="horizontal" sx={{ my: 2 }} />
 						<Card variant="soft" sx={{ mt: 1, bgcolor: "#00000030" }}>
 							<CardContent>
-								<Stack direction="row" justifyContent="space-between">
-									<Stack direction="column">
+								<Stack direction="row" justifyContent="space-between" sx={{width: '100%'}}>
+									<Stack direction="column" sx={{width: '75%'}}>
 										<Typography fontWeight="xs" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.7 }}>
 											Seleccionar variante
 										</Typography>
 										<Select
+											disabled={product.variants.length === 0}
 											name="variant"
 											size="md"
 											variant="soft"
 											placeholder="Elegir..."
 											color="neutral"
 											onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, variant: newValue })}
-											sx={{ bgcolor: "#00000020", color: "#000000", minWidth: 200, maxWidth: 220 }}>
+											defaultValue={product.variants.length === 1 ? product.variants[0] : null}
+											sx={{ bgcolor: "#00000020", color: "#000000" }}>
 											{product.variants.map((variant, index) => {
 												return (
 													<Option key={index} value={variant}>
@@ -200,7 +212,7 @@ const Page = () => {
 											})}
 										</Select>
 									</Stack>
-									<Stack direction="column" sx={{ mr: 2 }}>
+									<Stack direction="column" sx={{ width: '18%' }}>
 										<Typography fontWeight="xs" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.7 }}>
 											Cantidad
 										</Typography>
@@ -211,7 +223,7 @@ const Page = () => {
 											defaultValue={1}
 											color="neutral"
 											onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, amount: newValue })}
-											sx={{ bgcolor: "#00000020", color: "#000000" }}>
+											sx={{ bgcolor: "#00000020", color: "#000000", width: '100%' }}>
 											<Option value={1}>1</Option>
 											<Option value={2}>2</Option>
 											<Option value={3}>3</Option>
@@ -223,7 +235,11 @@ const Page = () => {
 							</CardContent>
 						</Card>
 						{!showGoBack ? (
-							<Button sx={{ width: "100%", my: 3 }} startDecorator={<AddIcon />} color="success" onClick={addItemToCart}>
+							<Button
+								sx={{ width: "100%", my: 3 }}
+								startDecorator={<AddIcon />}
+								color="success"
+								onClick={addItemToCart}>
 								Agregar a mi pedido
 							</Button>
 						) : (
