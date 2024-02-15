@@ -34,37 +34,39 @@ export default function Home() {
 
   return (
     <CssVarsProvider theme={theme}>
-      <Stack direction="column" justifyContent="space-between" sx={{ minHeight: '100svh', position: 'relative' }}>
-        <Box sx={{ paddingBottom: '50px' }}>
-          <Navbar />
-          <Tabs aria-label="Application tabs" defaultValue={0}>
-            <TabList tabFlex={1}>
-              <Tab orientation='vertical'>
-                <Typography fontWeight="md"
-                  level="body-md"
-                  textColor="neutral"
-                  endDecorator={<FormatListBulletedIcon sx={{ color: "neutral", fontSize: 18 }} />}>
-                  Productos
-                </Typography>
-              </Tab>
-              <Tab orientation='vertical'>
-                <Typography fontWeight="md"
-                  level="body-md"
-                  textColor="neutral"
-                  endDecorator={<ShoppingCartIcon sx={{ color: "neutral", fontSize: 18 }} />}>
-                  Mi pedido
-                </Typography>
-              </Tab>
-            </TabList>
-            <TabPanel value={0} sx={{ bgcolor: '#bcaaa4', p: 0 }}>
-              <ProductList />
-            </TabPanel>
-            <TabPanel value={1} sx={{ bgcolor: '#bcaaa4', p: 0 }}>
-              <Cart />
-            </TabPanel>
-          </Tabs>
-          <Footer />
-        </Box>
+      <Stack alignItems="center">
+        <Stack direction="column" justifyContent="space-between" sx={{ minHeight: '100svh', width: '100%', maxWidth: 540, position: 'relative', borderLeft: 1, borderRight: 1, borderColor: '#dde8ee' }}>
+          <Box sx={{ paddingBottom: '50px' }}>
+            <Navbar />
+            <Tabs aria-label="Application tabs" defaultValue={0}>
+              <TabList tabFlex={1}>
+                <Tab orientation='vertical'>
+                  <Typography fontWeight="md"
+                    level="body-md"
+                    textColor="neutral"
+                    endDecorator={<FormatListBulletedIcon sx={{ color: "neutral", fontSize: 18 }} />}>
+                    Productos
+                  </Typography>
+                </Tab>
+                <Tab orientation='vertical'>
+                  <Typography fontWeight="md"
+                    level="body-md"
+                    textColor="neutral"
+                    endDecorator={<ShoppingCartIcon sx={{ color: "neutral", fontSize: 18 }} />}>
+                    Mi pedido
+                  </Typography>
+                </Tab>
+              </TabList>
+              <TabPanel value={0} sx={{ bgcolor: '#bcaaa4', p: 0 }}>
+                <ProductList />
+              </TabPanel>
+              <TabPanel value={1} sx={{ bgcolor: '#bcaaa4', p: 0 }}>
+                <Cart />
+              </TabPanel>
+            </Tabs>
+            <Footer />
+          </Box>
+        </Stack>
       </Stack>
     </CssVarsProvider>
   );
