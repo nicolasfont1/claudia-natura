@@ -31,11 +31,13 @@ const Navbar = ({ backPath }) => {
 			<Typography fontWeight="lg" level="h1" textColor="neutral.700">
 				Clau-tálogo
 			</Typography>
-			<NextLink href={`/settings`} passHref>
-				<IconButton sx={{ position: "absolute", right: 15, top: 15 }}>
-					{<SettingsIcon sx={{ color: "neutral.700" }} />}
-				</IconButton>
-			</NextLink>
+			{path === "/" && (
+				<NextLink href={`/settings`} passHref>
+					<IconButton sx={{ position: "absolute", right: 15, top: 15 }}>
+						{<SettingsIcon sx={{ color: "neutral.700" }} />}
+					</IconButton>
+				</NextLink>
+			)}
 		</Box>
 	);
 };
