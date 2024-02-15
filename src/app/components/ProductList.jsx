@@ -103,7 +103,7 @@ const ProductList = () => {
 						showingSearch={showingSearch}
 						handleSearchClick={handleSearchClick}
 					/>
-					<Stack direction="column" justifyContent="center" alignItems="center" spacing={2} sx={{ px: 1, pb: 1 }}>
+					<Stack direction="column" justifyContent="center" alignItems="center" spacing={2} sx={{ pb: 1 }}>
 						{productList.map((product, index) => {
 							return (
 								<ProductCard
