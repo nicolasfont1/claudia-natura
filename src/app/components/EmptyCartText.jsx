@@ -9,7 +9,7 @@ const EmptyCartText = () => {
 			direction="column"
 			justifyContent="center"
 			alignItems="center"
-			sx={{ minHeight: "68svh", textAlign: "center" }}>
+			sx={{ minHeight: "100svh", textAlign: "center" }}>
 			<Box sx={{ mb: 3 }}>
 				<Typography fontWeight="md" level="h3" color="neutral.600">
 					Aún no agregaste productos
@@ -19,28 +19,23 @@ const EmptyCartText = () => {
 				</Typography>
 			</Box>
 
-			<Stack direction="column" alignItems="center" sx={{ opacity: 0.6 }}>
-				<Typography sx={{ display: "flex", alignItems: "center" }}>
-					Para sumar uno, tocá el botón <AddCircleOutlineIcon color="success" sx={{ ml: 0.5 }} />{" "}
+			<Stack direction="column" alignItems="center" sx={{ opacity: 0.6, px: 2 }}>
+				<Typography sx={{ mb: 1 }}>
+					Para sumar uno, tocá el item que quieras, luego elegí una variante en caso de ser necesario,
+					seleccioná la cantidad y finalmente apretá el botón
 				</Typography>
-				<Typography>dentro del item que quieras, luego elegí</Typography>
-				<Typography>una variante en caso de ser necesario,</Typography>
-				<Typography>seleccioná la cantidad y finalmente</Typography>
-				<Typography>
-					apretá el botón{" "}
-					<Typography
-						sx={{
-							background: "#1F7A1F",
-							color: "#FFFFFF",
-							fontSize: 12,
-							py: 0.5,
-							pr: 1,
-							pl: 0.7,
-							borderRadius: 4,
-						}}>
-						+ Agregar a mi pedido
-					</Typography>
-					.
+				<Typography
+					sx={{
+						background: "#1F7A1F",
+						color: "#FFFFFF",
+						fontSize: 12,
+						py: 0.5,
+						pr: 1,
+						pl: 0.7,
+						borderRadius: 4,
+						display: 'inline-block'
+					}}>
+					+ Agregar a mi pedido
 				</Typography>
 			</Stack>
 		</Stack>
