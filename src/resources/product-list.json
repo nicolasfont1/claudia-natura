@@ -1,28 +1,5 @@
 [
 	{
-		"id": "crema-nutritiva",
-		"name": "Crema nutritiva",
-		"size": 400,
-		"sizeUnit": "ml",
-		"inmediateDelivery": true,
-		"magazinePrice": 8900,
-		"price": 7000,
-		"variants": [
-			"flor de lis",
-			"frambuesa y pimienta rosa",
-			"mango rosa y agua de coco",
-			"nuez pecán y cacao",
-			"mora roja y jabuticaba",
-			"frutas rojas",
-			"hojas de limón y guanábana",
-			"avellana y casis"
-		],
-		"vegan": true,
-		"made": ["Argentina", "Brasil"],
-		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5d10df90/NATARG-74900_1.jpg",
-		"cathegory": "COMPLETAR!"
-	},
-	{
 		"id": "kaiak-aero-femenino",
 		"name": "Kaiak aero eau de toilette femenino",
 		"size": 100,
@@ -686,7 +663,7 @@
 	},
 	{
 		"id": "una-labial-confort",
-		"name": "Una Labial extremo confort",
+		"name": "Una Labial extremo confort FPS 25",
 		"size": 3.8,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
