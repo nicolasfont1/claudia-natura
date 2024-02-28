@@ -28,9 +28,9 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 						</Typography>
 					</Stack>
 					<Stack direction="column">
-						<Link href={`/${id}`} style={{textDecoration: 'none'}}>
+						{/* <Link href={`/${id}`} style={{textDecoration: 'none'}}>
 							<Typography level="body-xs" sx={{ fontWeight: 400, opacity: 0.7 }} color="primary">Ver fragancias disponibles</Typography>
-						</Link>
+						</Link> */}
 						{inmediateDelivery ? <InmediateDeliveryText /> : <ByOrderText />}
 					</Stack>
 					<Stack direction="column">
