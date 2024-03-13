@@ -624,7 +624,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/65ca81af9101ef008490173eeb6a7e7a60194851005a3b3b49e61fbd7c044ab335994.png",
-		"cathegory": "bpca",
+		"cathegory": "boca",
 		"info": "FPS 15. Dermatológicamente probado.",
 		"refillment": false
 	},
@@ -1552,7 +1552,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw83cfbf93/1200x1200/67666_2.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1567,7 +1567,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/6fcd8890f5391c334c7ab75d7fbd7c09029923c8df8473f9589b801f28ec2a61185168.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1582,7 +1582,7 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://staticpe.natura.com/cdn/ff/PNfmp6y3ruczaqad-CSrwQxfvC1M190U8-0Dat57gvI/1701700283/public/products/67661_2_18.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1597,7 +1597,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/bc76d7344d16b163c4d3a65a246d0d98d0f80ac49737b58112be705e3180118d112411.jpeg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"info": "Punta biselada para trazos precisos.",
 		"refillment": false
 	},
@@ -1613,7 +1613,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8b8d98f0/1200x1200/116204_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "boca",
 		"refillment": false
 	},
 	{
@@ -1628,7 +1628,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc4c6b828/1200x1200/81949_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "boca",
 		"info": "Cobertura leve, efecto perlado.",
 		"refillment": false
 	},
@@ -1644,7 +1644,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa6c3e514/1200x1200/9456_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Cobertura leve, efecto perlado.",
 		"refillment": false
 	},
@@ -1660,7 +1660,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwefcb8ab0/1200x1200/8882_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -1676,7 +1676,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw09a473d7/1200x1200/109154_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -1691,7 +1691,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8d6a72d9/1200x1200/9910_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1706,7 +1706,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7123cb65/1200x1200/10156_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1721,7 +1721,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc9522e34/1200x1200/9981_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1736,7 +1736,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_964653-MLA49334233920_032022-O.webp",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1751,7 +1751,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwdb165b90/NATARG-9833_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1766,7 +1766,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/094/803/products/natarg-9832_11-e82eb93532fd6922bb16887457988602-1024-1024.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1781,7 +1781,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa78ee397/1200x1200/110262_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1796,7 +1796,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw1f507a03/1200x1200/110261_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "ojos",
 		"refillment": false
 	},
 	{
@@ -1821,7 +1821,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwac8f88ff/1200x1200/111428_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "boca",
 		"refillment": false
 	},
 	{
@@ -1836,7 +1836,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0f49205e/PRODUTOS/NATARG-9586_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "boca",
 		"refillment": false
 	},
 	{
@@ -1851,7 +1851,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwade9b259/default/atgImported/2022-09-16/107360_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "boca",
 		"refillment": false
 	},
 	{
@@ -1878,7 +1878,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8e8d9e92/1200x1200/106536_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "unias",
 		"info": "Alta cobertura. Secado rápido. Brillo wow. 10 free. Fórmula hipoalergénica.",
 		"refillment": false
 	},
@@ -1894,7 +1894,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw280ec4f2/NATARG-69059_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -1909,7 +1909,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4bea38c3/1200x1200/108634_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -1924,7 +1924,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwdaf13f53/NATARG-59880_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "crema",
 		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10.",
 		"refillment": true
 	},
@@ -1940,7 +1940,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwb7a51a23/1200x1200/102713_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "crema",
 		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10.",
 		"refillment": true
 	},
@@ -1956,7 +1956,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw49207c1c/1200x1200/102714_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "crema",
 		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10.",
 		"refillment": true
 	},
@@ -1972,7 +1972,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbffb7b8a/NATARG-59888_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "crema",
 		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10.",
 		"refillment": true
 	},
@@ -1988,7 +1988,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://beauteflorale.com/cdn/shop/products/ChronosAcquaBiohidratanteRenovador.jpg?v=1662202898",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2004,7 +2004,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3b610253/1200x1200/131456_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -2019,7 +2019,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8798744a/1200x1200/127754_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -2034,7 +2034,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://dcdn.mitiendanube.com/stores/030/106/products/3-7d8e8249bc2fb428e9169946553373561-ef63aa6bc83ee1320e16994655380356-1024-1024.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Concentrado de jambú. Ácido hialurónico.",
 		"refillment": false
 	},
@@ -2050,7 +2050,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw218caaea/NATARG-96735_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para día y noche.",
 		"refillment": false
 	},
@@ -2066,7 +2066,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://www.naturabrasil.fr/product/image/large/108636_serum_liftant_raffermissant_chronos.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para día y noche.",
 		"refillment": false
 	},
@@ -2082,7 +2082,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://www.naturabrasil.fr/product/image/large/108636_serum_liftant_raffermissant_chronos.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Repuestos disponibles, consultar precios. Uso recomendado para día y noche.",
 		"refillment": true
 	},
@@ -2098,7 +2098,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://dcdn.mitiendanube.com/stores/001/171/361/products/exfoliante-antisenales-chronos1-b345c0d1d271473e8d15883623691464-1024-1024.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para día y noche.",
 		"refillment": false
 	},
@@ -2114,7 +2114,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw15ccc67e/NATARG-59374_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "jabon",
 		"info": "Uso recomendado para día y noche.",
 		"refillment": false
 	},
@@ -2130,7 +2130,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw15ccc67e/NATARG-59374_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Repuestos disponibles, consultar precios. Uso recomendado para día y noche.",
 		"refillment": true
 	},
@@ -2146,7 +2146,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/014/432/products/gel-de-limpieza-antioleosidad1-eaa3fc97d955958c5c15893345891769-640-0.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para día y noche.",
 		"refillment": false
 	},
@@ -2162,7 +2162,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://www.naturabrasil.fr/product/image/large/50316169_50299774-masque-purifiant-argile-chronos.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para día y noche.",
 		"refillment": false
 	},
@@ -2178,7 +2178,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4d93471e/NATARG-69723_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para noche.",
 		"refillment": false
 	},
@@ -2194,7 +2194,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwdb8aa309/NATARG-69725_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para día.",
 		"refillment": false
 	},
@@ -2210,7 +2210,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf244182c/NATARG-80060_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para noche.",
 		"refillment": false
 	},
@@ -2226,7 +2226,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc579dd30/NATARG-80059_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para día.",
 		"refillment": false
 	},
@@ -2242,7 +2242,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw00d0d647/1200x1200/75703_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Uso recomendado para día.",
 		"refillment": false
 	},
@@ -2258,7 +2258,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5fd9c8c4/1200x1200/128423_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -2273,7 +2273,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw85b737c2/NATARG-90175_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "jabon",
 		"info": "Para todo tipo de piel.",
 		"refillment": false
 	},
@@ -2289,7 +2289,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_701127-MLA41959660671_052020-O.webp",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"info": "Agua micelar.",
 		"refillment": false
 	},
@@ -2305,7 +2305,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_771621-MLA49685699988_042022-O.webp",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -2320,7 +2320,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbbc62b79/NATARG-105024_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -2335,7 +2335,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5639be1a/NATARG-90176_1.jpg",
-		"cathegory": "belleza",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -2350,7 +2350,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwca33da4c/NATARG-80997_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "cabello",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2366,7 +2366,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3e911d0a/NATARG-84738_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "cabello",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2382,7 +2382,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwe8702a3e/1200x1200/112892_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "rostro",
 		"refillment": false
 	},
 	{
@@ -2397,7 +2397,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4cc2d3b8/NATARG-73180_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "cabello",
 		"info": "Sin enjuage.",
 		"refillment": false
 	},
@@ -2413,7 +2413,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5fc617e8/NATARG-73183_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "rostro",
 		"info": "Con enjuage. Usar 1-3 veces por semana.",
 		"refillment": false
 	},
@@ -2429,7 +2429,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5cc12639/NATARG-80981_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "cabello",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2445,7 +2445,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwe027f9f5/NATARG-81022_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "cabello",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2461,7 +2461,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5fc617e8/NATARG-73183_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "cabello",
 		"info": "Con enjuage. Usar 1-3 veces por semana.",
 		"refillment": false
 	},
@@ -2477,7 +2477,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw426c4bb1/NATARG-73189_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "cabello",
 		"info": "Sin enjuage.",
 		"refillment": false
 	},
@@ -2493,7 +2493,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa793b7e0/NATARG-80967_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2508,7 +2508,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa3f9bac5/NATARG-82509_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2524,7 +2524,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw86c494a9/NATARG-95035_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2539,7 +2539,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6db6db50/NATARG-70410_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2555,7 +2555,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc13adeea/NATARG-70405_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2571,7 +2571,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0f40a3bc/1200x1200/97428_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2587,7 +2587,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8885674a/1200x1200/70401_2.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2603,7 +2603,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw56704e1c/NATARG-70407_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2619,7 +2619,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwd32d7feb/1200x1200/70403_2.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2635,7 +2635,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw1c7cd803/NATARG-70409_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2651,7 +2651,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwfbf5c362/1200x1200/97429_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2676,7 +2676,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw98f327b9/NATARG-73575_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "perfume",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2692,7 +2692,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwd370fc36/NATARG-95034_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2707,7 +2707,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw15d9750f/NATARG-80969_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2722,7 +2722,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw48236aa2/1200x1200/72981_2.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2737,7 +2737,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw48236aa2/1200x1200/72981_2.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2753,7 +2753,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw114f4918/NATARG-19904_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2768,7 +2768,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbffc3f8c/default/atgImported/2022-09-16/27238_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2783,7 +2783,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw82cf946a/1200x1200/19915_2.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2799,7 +2799,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa7f78473/NATARG-72984_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"info": "Respeta el ph natural de la piel. 100% aceites vegetales.",
 		"refillment": false
 	},
@@ -2823,7 +2823,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa194f609/NATARG-2831_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"refillment": false
 	},
 	{
@@ -2838,7 +2838,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf090e55e/NATARG-5857_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -2854,7 +2854,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw59b78c9e/NATARG-72198_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "perfume",
 		"refillment": false
 	},
 	{
@@ -2876,7 +2876,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8df30de2/1200x1200/23154_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2899,7 +2899,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5d10df90/NATARG-74900_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2914,7 +2914,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7e80e965/NATARG-72177_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2929,7 +2929,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw36649560/NATARG-72181_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"refillment": false
 	},
 	{
@@ -2944,7 +2944,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw60e26e53/1200x1200/117687_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "crema",
 		"info": "Textura en gel con semillas de damasco que exfolian removiendo las impurezas profundas.",
 		"refillment": false
 	},
@@ -2960,7 +2960,7 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/tKzlGrIUA9IMuQxbM6J9sOAgkGsAT4GHBDk_vwjQ_-o/1704883330/public/products/72860_1_18.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "desodorante",
 		"refillment": false
 	},
 	{
@@ -2984,7 +2984,7 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/tKzlGrIUA9IMuQxbM6J9sOAgkGsAT4GHBDk_vwjQ_-o/1704883330/public/products/72860_1_18.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "desodorante",
 		"refillment": false
 	},
 	{
@@ -2999,7 +2999,7 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/963a5704333c7b557d4b1805ce680b07414bf2752100899511efb625ea26823f35994.png",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "desodorante",
 		"refillment": false
 	},
 	{
@@ -3014,7 +3014,7 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwcbff4473/NATARG-105407_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "desodorante",
 		"refillment": false
 	},
 	{
@@ -3029,7 +3029,7 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw794b1410/NATARG-2179_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "desodorante",
 		"refillment": false
 	},
 	{
@@ -3044,7 +3044,7 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw32300868/NATARG-56757_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "perfume",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -3060,7 +3060,7 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8f4b70c7/NATARG-56956_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "perfume",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -3076,7 +3076,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dweb9deb1e/NATARG-26441_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "jabon",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -3092,7 +3092,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/014/432/products/erva-doce-alcohol-en-gel1-efe3b216669bfc514f16311460173087-480-0.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "varios",
 		"refillment": false
 	},
 	{
@@ -3107,7 +3107,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw61ec3c80/1200x1200/103151_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "solar",
 		"refillment": false
 	},
 	{
@@ -3122,7 +3122,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw47757dc3/1200x1200/103152_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "solar",
 		"info": "Protección UVA/UVB, toque seco, complejo antioxidante. Control de oleosidad.",
 		"refillment": false
 	},
@@ -3138,7 +3138,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwaf5a8d0e/1200x1200/103153_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "solar",
 		"info": "Protección UVA/UVB, toque seco, complejo antioxidante. Control de oleosidad.",
 		"refillment": false
 	},
@@ -3154,7 +3154,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5d890343/1200x1200/103154_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "solar",
 		"info": "Protección UVA/UVB, textura aterciopelada, complejo antioxidante. Hidratación intensa e inmediata.",
 		"refillment": false
 	},
@@ -3170,7 +3170,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw82790595/1200x1200/103155_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "solar",
 		"info": "Protección UVA/UVB, textura aterciopelada, complejo antioxidante. Hidratación intensa e inmediata.",
 		"refillment": false
 	},
@@ -3186,7 +3186,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0d2a285c/1200x1200/103148_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "solar",
 		"refillment": false
 	},
 	{
@@ -3201,7 +3201,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw9742d9d1/1200x1200/103149_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "solar",
 		"refillment": false
 	},
 	{
@@ -3216,7 +3216,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwfafb5cf6/1200x1200/103150_1.jpg",
-		"cathegory": "cuidados-diarios",
+		"cathegory": "solar",
 		"refillment": false
 	},
 	{
@@ -3905,7 +3905,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw43b0df16/NATARG-74776_1.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"refillment": false
 	},
 	{
@@ -3920,7 +3920,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5fc04498/NATARG-32542_1.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"refillment": false
 	},
 	{
@@ -3935,7 +3935,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/hqS8Zv5DVRlEJWk9pMMkCzyyA4btShGYwcYk3lfCEn0/1661178206/public/2022-08/Imagen_01_85.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -3951,7 +3951,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/hqS8Zv5DVRlEJWk9pMMkCzyyA4btShGYwcYk3lfCEn0/1661178206/public/2022-08/Imagen_01_85.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -3967,7 +3967,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf7970e2d/default/atgImported/2022-09-16/27387_1.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -3983,7 +3983,7 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwe2475de4/NATARG-27385_1.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -3999,7 +3999,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_968438-MLA71571044260_092023-O.webp",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"refillment": false
 	},
 	{
@@ -4014,7 +4014,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/6feef023f8c6ce2a79abc6a8767c94419b3f443cdfad8d7bad778fbc4e813318163470.jpeg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"refillment": false
 	},
 	{
@@ -4029,7 +4029,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw18e3bad2/NATARG-92795_1.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"refillment": false
 	},
 	{
@@ -4044,7 +4044,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/RFpSt18KWLp-W-durCc79s82BKoX2y1BTWDO0y8D0oA/1655150389/public/2022-06/Imagen_01_64.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"refillment": false
 	},
 	{
@@ -4059,7 +4059,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_711460-MLA71931597175_092023-O.webp",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"refillment": false
 	},
 	{
@@ -4074,7 +4074,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://m.media-amazon.com/images/I/51yLBGblAQS.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"refillment": false
 	},
 	{
@@ -4089,7 +4089,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4c5afc3f/NATARG-92790_1.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -4105,7 +4105,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7a71ebee/1200x1200/106418_1.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	},
@@ -4121,7 +4121,7 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwb88d247d/NATARG-92800_1.jpg",
-		"cathegory": "infantiles",
+		"cathegory": "ninios",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
 	}
