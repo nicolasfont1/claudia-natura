@@ -76,8 +76,17 @@ const SearchHub = ({
 					),
 					indicator: null,
 				})}>
-				<Option value="perfumeria">Perfumería</Option>
-				<Option value="belleza">Belleza</Option>
+				<Option value="perfume">Perfume</Option>
+				<Option value="jabon">Jabón</Option>
+				<Option value="rostro">Rostro</Option>
+				<Option value="ojos">Ojos</Option>
+				<Option value="unias">Uñas</Option>
+				<Option value="cabello">Cabello</Option>
+				<Option value="boca">Boca</Option>
+				<Option value="crema">Crema</Option>
+				<Option value="desodorante">Desodorante</Option>
+				<Option value="solar">Solar</Option>
+				<Option value="ninios">Niños/as</Option>
 			</Select>
 		</Stack>
 	);
