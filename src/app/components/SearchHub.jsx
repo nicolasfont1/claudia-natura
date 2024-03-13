@@ -87,6 +87,7 @@ const SearchHub = ({
 				<Option value="desodorante">Desodorante</Option>
 				<Option value="solar">Solar</Option>
 				<Option value="ninios">Niños/as</Option>
+				<Option value="varios">Varios</Option>
 			</Select>
 		</Stack>
 	);
