@@ -11,7 +11,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://tuseduccion.com.ar/14637-home_default/kaiak-aero-femenino-edt-100ml-natura.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "kaiak-aventura-masculino",
@@ -25,7 +26,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_879087-MLA52222049636_102022-O.webp",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "kaiak-aventura-femenino",
@@ -39,7 +41,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://fraguru.com/mdimg/perfume/375x500.43623.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "kaiak-clasico-masculino",
@@ -53,7 +56,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://fraguru.com/mdimg/perfume/375x500.13237.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "kaiak-toilette-masculino",
@@ -67,7 +71,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_849942-MLA53879871321_022023-O.webp",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "luna-atitude-femenino",
@@ -81,7 +86,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf0a245ff/NATARG-107011_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "luna-intenso-femenino",
@@ -95,7 +101,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw265c8cff/NATARG-90927_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "luna-clasico-femenino",
@@ -109,7 +116,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_642429-MLA52833306607_122022-O.webp",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "luna-toilette-femenino",
@@ -123,7 +131,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw05dfd3f5/1200x1200/116586_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "una-blush-femenino",
@@ -137,7 +146,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_600100-MLA72884056631_112023-O.webp",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "una-femenino",
@@ -151,7 +161,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_941863-MLU72558329492_112023-O.webp",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "illia-femenino",
@@ -165,7 +176,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa2357b1e/NATARG-44171_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "essencial-exclusivo-femenino",
@@ -180,7 +192,8 @@
 		"made": ["Argentina", "Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_865293-MLU70173488612_062023-O.webp",
 		"cathegory": "perfumeria",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "essencial-unico-femenino",
@@ -194,7 +207,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw27432c02/1200x1200/118459_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "essencial-exclusivo-masculino",
@@ -209,7 +223,8 @@
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/094/803/products/93617_1_111-d1032451655c3c2b5a16478175302673-1024-1024.jpg",
 		"cathegory": "perfumeria",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "essencial-masculino",
@@ -224,7 +239,8 @@
 		"made": ["Argentina", "Brasil"],
 		"image": "https://fraguru.com/mdimg/perfume/375x500.52563.jpg",
 		"cathegory": "perfumeria",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "essencial-unico-masculino",
@@ -238,7 +254,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://fraguru.com/mdimg/perfume/375x500.52563.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "homem-masculino",
@@ -253,7 +270,8 @@
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw2d85f6c5/NATARG-109164_1.jpg",
 		"cathegory": "perfumeria",
-		"info": "Los precios pueden variar dependiendo de la fragancia."
+		"info": "Los precios pueden variar dependiendo de la fragancia.",
+		"refillment": false
 	},
 	{
 		"id": "homem-potence-masculino",
@@ -267,7 +285,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw2ebca158/NATARG-81950_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "homem-toilette-masculino",
@@ -281,7 +300,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://fraguru.com/mdimg/perfume/375x500.26088.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "homem-coragio-masculino",
@@ -295,7 +315,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://fraguru.com/mdimg/perfume/375x500.53469.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "kaiak-masculino",
@@ -309,7 +330,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://movilstoresanluis.com.ar/wp-content/uploads/2023/11/1000158507.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "humor-meuprimeiro-femenino",
@@ -323,7 +345,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw28a3ef37/NATARG-203_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "humor-femenino",
@@ -337,7 +360,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3099217f/NATARG-105351_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "humor-paz-masculino",
@@ -351,7 +375,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0b85ae60/NATARG-64750_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "humor-masculino",
@@ -370,7 +395,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6b4b3adb/NATARG-105350_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "kriska-shock-femenino",
@@ -384,7 +410,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw90cee22c/NATARG-83323_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "kriska-femenino",
@@ -398,7 +425,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_937584-MLA70201974769_062023-O.webp",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "ekos-femenino",
@@ -412,7 +440,8 @@
 		"vegan": false,
 		"made": ["Argentina"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8d43e0c9/NATARG-72859_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "ekos-frescor-femenino",
@@ -434,7 +463,8 @@
 		"made": ["Argentina"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8d43e0c9/NATARG-72859_1.jpg",
 		"cathegory": "perfumeria",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "biografia-clasico-femenino",
@@ -448,7 +478,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_806208-MLU70527864881_072023-O.webp",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "biografia-clasico-masculino",
@@ -462,7 +493,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwac67754a/NATARG-74789_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "aguas-natura-femenino",
@@ -476,7 +508,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3c6a039a/NATARG-95809_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "tododia-body-splash-1",
@@ -497,7 +530,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw92adfcba/1200x1200/91204_1.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "srn-clasico-masculino",
@@ -511,7 +545,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://fraguru.com/mdimg/perfume/375x500.12556.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "urbano-masculino",
@@ -525,7 +560,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://dcdn.mitiendanube.com/stores/030/106/products/nox1-f9c13726d58d96031116890910778153-640-0.jpg",
-		"cathegory": "perfumeria"
+		"cathegory": "perfumeria",
+		"refillment": false
 	},
 	{
 		"id": "homem-shampoo",
@@ -540,7 +576,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa6749225/NATARG-78904_1.jpg",
 		"cathegory": "perfumeria",
-		"info": "Limpia y acondiciona mientras da suavidad en el cabello."
+		"info": "Limpia y acondiciona mientras da suavidad en el cabello.",
+		"refillment": false
 	},
 	{
 		"id": "homem-shampoo-antioleosidad",
@@ -555,7 +592,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf1b4cb82/NATARG-78902_1.jpg",
 		"cathegory": "perfumeria",
-		"info": "Limpia profundamente mientras reduce la oleosidad."
+		"info": "Limpia profundamente mientras reduce la oleosidad.",
+		"refillment": false
 	},
 	{
 		"id": "homem-gel-fijador",
@@ -570,7 +608,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwfa8bc733/NATARG-78932_1.jpg",
 		"cathegory": "perfumeria",
-		"info": "Modela los cabellos mientras da brillo intenso."
+		"info": "Modela los cabellos mientras da brillo intenso.",
+		"refillment": false
 	},
 	{
 		"id": "homem-jabon",
@@ -585,7 +624,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5bdfeb69/NATARG-78937_1.jpg",
 		"cathegory": "perfumeria",
-		"info": "No reseca. Jabones en barra cremosos y refrescantes. Caja con 3 unidades de 110g c/u."
+		"info": "No reseca. Jabones en barra cremosos y refrescantes. Caja con 3 unidades de 110g c/u.",
+		"refillment": false
 	},
 	{
 		"id": "una-gloss-labial",
@@ -600,7 +640,8 @@
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/65ca81af9101ef008490173eeb6a7e7a60194851005a3b3b49e61fbd7c044ab335994.png",
 		"cathegory": "belleza",
-		"info": "FPS 15. Dermatológicamente probado."
+		"info": "FPS 15. Dermatológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-lapiz-pro-labial",
@@ -614,7 +655,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8254cb17/1200x1200/92567_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-labial-hidratante",
@@ -629,7 +671,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3840a972/1200x1200/92520_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado."
+		"info": "Dermatológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-labial-matte",
@@ -644,7 +687,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw25e3016b/1200x1200/54406_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado."
+		"info": "Dermatológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-labial-confort",
@@ -658,7 +702,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6d521bef/1200x1200/17276_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-serum-labial",
@@ -672,7 +717,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_784365-MLA73437567227_122023-O.webp",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-labial-cushion",
@@ -687,7 +733,8 @@
 		"made": ["Brasil"],
 		"image": "https://www.luxtor.pe/recursos/tienda/img/productos/Labial_Cushion_Multifuncional_Liberdade_Una_Natura_4_5_g.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Aplicador exclusivo con esponja incluido."
+		"info": "Dermatológicamente probado. Aplicador exclusivo con esponja incluido.",
+		"refillment": false
 	},
 	{
 		"id": "maxxi-palette-sombras",
@@ -702,7 +749,8 @@
 		"made": ["China"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw1dc5b417/background-argentina/70722_8_mobile.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado. 12 tonos nude o intensos."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado. 12 tonos nude o intensos.",
+		"refillment": false
 	},
 	{
 		"id": "una-delineador-peel-off",
@@ -717,7 +765,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3ef1caeb/NATARG-95757_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado. Delineado ultrapigmentado con fácil remoción peel off."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado. Delineado ultrapigmentado con fácil remoción peel off.",
+		"refillment": false
 	},
 	{
 		"id": "una-delineador-fibra",
@@ -732,7 +781,8 @@
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_664955-MLA51537121175_092022-O.webp",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-delineador-cejas",
@@ -747,7 +797,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwfc690bec/1200x1200/17042_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-lapiz-hd-ojos",
@@ -762,7 +813,8 @@
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/014/432/products/lapiz-negro-hd-para-ojos1-471e4746327d2e2e9c16035111965025-640-0.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-sacapuntas-doble",
@@ -776,7 +828,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw407e28a0/NATARG-72978_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-lapiz-retractil",
