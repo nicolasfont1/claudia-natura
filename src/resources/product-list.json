@@ -844,7 +844,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw197bad43/1200x1200/27371_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado. A prueba de agua."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado. A prueba de agua.",
+		"refillment": false
 	},
 	{
 		"id": "una-lapiz-kajal",
@@ -859,7 +860,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw84633e85/1200x1200/70721_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-mascara-dos-en-uno",
@@ -874,7 +876,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf9a5bfe3/1200x1200/106123_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-mascara-volumen",
@@ -889,7 +892,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw63d07a80/1200x1200/106120_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado. A prueba de agua."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado. A prueba de agua.",
+		"refillment": false
 	},
 	{
 		"id": "una-mascara-alargamiento",
@@ -904,7 +908,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw098cc01b/1200x1200/106122_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado. A prueba de agua."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado. A prueba de agua.",
+		"refillment": false
 	},
 	{
 		"id": "una-mascara-secret",
@@ -919,7 +924,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3d79790e/1200x1200/106124_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado. Pincel secreto 180º + volumen + curvatura."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado. Pincel secreto 180º + volumen + curvatura.",
+		"refillment": false
 	},
 	{
 		"id": "una-kit-pro-cejas",
@@ -934,7 +940,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw9aa5e020/1200x1200/17045_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-lapiz-retractil-cejas",
@@ -949,7 +956,8 @@
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/014/432/products/lapiz-retractil-cejas1-7d9eec05613407c6a116682192443292-640-0.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-primer-blur",
@@ -964,7 +972,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw85352f7b/NATARG-59313_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-primer-facial",
@@ -979,7 +988,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw9dc2e993/1200x1200/118797_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-bruma-facial",
@@ -994,7 +1004,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw84dbee16/1200x1200/118790_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-base-fluida-hd",
@@ -1029,7 +1040,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6dacb252/1200x1200/92606_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. Dermatológicamente probado. Oftalmológicamente probado. Protección contra luz azul."
+		"info": "Repuestos disponibles, consultar precios. Dermatológicamente probado. Oftalmológicamente probado. Protección contra luz azul.",
+		"refillment": true
 	},
 	{
 		"id": "una-base-matte",
@@ -1044,7 +1056,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6dacb252/1200x1200/92606_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado. Protección contra luz azul."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado. Protección contra luz azul.",
+		"refillment": false
 	},
 	{
 		"id": "una-base-serum-nude",
@@ -1078,7 +1091,8 @@
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_960525-MLA71438026040_092023-O.webp",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado. Protección contra luz azul."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado. Protección contra luz azul.",
+		"refillment": false
 	},
 	{
 		"id": "una-corrector-cushion",
@@ -1093,7 +1107,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0d9007c3/1200x1200/107129_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-corrector-cobertura-extrema",
@@ -1108,7 +1123,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw67d70fd0/1200x1200/122120_1.jpg",
 		"cathegory": "belleza",
-		"info": "Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": false
 	},
 	{
 		"id": "una-rubor-intense",
@@ -1123,7 +1139,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa445bf5c/1200x1200/75242_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Repuestos disponibles, consultar precios. Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": true
 	},
 	{
 		"id": "una-polvo-compacto",
@@ -1138,7 +1155,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4144a525/1200x1200/116402_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Repuestos disponibles, consultar precios. Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": true
 	},
 	{
 		"id": "una-iluminador-marmolizado",
@@ -1153,7 +1171,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw38f8bad0/NATARG-21454_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. Dermatológicamente probado. Oftalmológicamente probado."
+		"info": "Repuestos disponibles, consultar precios. Dermatológicamente probado. Oftalmológicamente probado.",
+		"refillment": true
 	},
 	{
 		"id": "una-pincel-ojos-precisión",
@@ -1167,7 +1186,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw417b0a0b/NATARG-105716_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-pincel-ojos-esfumador",
@@ -1181,7 +1201,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6a850ed1/NATARG-105715_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-pincel-cejas",
@@ -1195,7 +1216,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5c7c5a47/NATARG-105717_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-pincel-labios",
@@ -1209,7 +1231,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf039d642/NATARG-55107_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-pincel-pro-rubor",
@@ -1223,7 +1246,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/618f2cd766f83d7263ea94d1ad31a6e2f9d793fc91badf7ef2fb508ab882469539719.jpeg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-pincel-pro-polvo",
@@ -1237,7 +1261,8 @@
 		"vegan": false,
 		"made": ["China"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_940226-MLA52676904939_122022-O.webp",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-pincel-pro-base",
@@ -1251,7 +1276,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc2ad89d7/NATARG-55104_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-pincel-pro-corrector",
@@ -1265,7 +1291,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw06ac635e/NATARG-55106_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-pincel-pro-iluminador",
@@ -1279,7 +1306,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/fd4990b784cb14984ce923162cd975167ec992521647eb6f2af6f507e9edd99335994.png",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "una-esmalte-3d-gel",
@@ -1304,7 +1332,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwd945747b/1200x1200/15479_1.jpg",
 		"cathegory": "belleza",
-		"info": "Contra pruebas en animales. Hipoalergénico."
+		"info": "Contra pruebas en animales. Hipoalergénico.",
+		"refillment": false
 	},
 	{
 		"id": "una-serum-unias-cuticulas",
@@ -1319,7 +1348,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwb00f7c9b/NATARG-109481_1.jpg",
 		"cathegory": "belleza",
-		"info": "Contra pruebas en animales. Hipoalergénico."
+		"info": "Contra pruebas en animales. Hipoalergénico.",
+		"refillment": false
 	},
 	{
 		"id": "una-base-primer-3d",
@@ -1334,7 +1364,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwcf6e46b3/NATARG-15825_1.jpg",
 		"cathegory": "belleza",
-		"info": "Contra pruebas en animales. Hipoalergénico."
+		"info": "Contra pruebas en animales. Hipoalergénico.",
+		"refillment": false
 	},
 	{
 		"id": "una-top-coat-3d",
@@ -1349,7 +1380,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw15358356/NATARG-15826_1.jpg",
 		"cathegory": "belleza",
-		"info": "Contra pruebas en animales. Hipoalergénico."
+		"info": "Contra pruebas en animales. Hipoalergénico.",
+		"refillment": false
 	},
 	{
 		"id": "labial-lip-tint",
@@ -1363,7 +1395,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_Q_NP_623960-MLU73369858177_122023-O.webp",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "delineador-liquido",
@@ -1377,7 +1410,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw25e23b35/NATARG-10155_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "mascara-cejas-marron",
@@ -1391,7 +1425,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw720ed9c3/1200x1200/120447_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "gel-glitter",
@@ -1406,7 +1441,8 @@
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_901282-MLA53875138987_022023-O.webp",
 		"cathegory": "belleza",
-		"info": "Glitter libre de plásticos."
+		"info": "Glitter libre de plásticos.",
+		"refillment": false
 	},
 	{
 		"id": "base-liquida-check",
@@ -1439,7 +1475,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/5vRXNXN2pJqfAO4TRSg_MD7lKO-4L2Y3QCz0Ko-FjbQ/1704739318/public/products/97636_2_3.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "iluminador-duo-superbrillo",
@@ -1453,7 +1490,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7e57b9dc/1200x1200/101036_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "corrector-check-mate",
@@ -1468,7 +1506,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw30ea0ba1/1200x1200/116693_1.jpg",
 		"cathegory": "belleza",
-		"info": "Larga duración"
+		"info": "Larga duración",
+		"refillment": false
 	},
 	{
 		"id": "sombra-trio",
@@ -1483,7 +1522,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw18585295/1200x1200/89503_1.jpg",
 		"cathegory": "belleza",
-		"info": "Disponible en centelleante y mate."
+		"info": "Disponible en centelleante y mate.",
+		"refillment": false
 	},
 	{
 		"id": "mascara-fantastica",
@@ -1497,7 +1537,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4f303185/NATARG-67647_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "mascara-volume-fever",
@@ -1511,7 +1552,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_651832-MLU71599575809_092023-O.webp",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "mascara-mega-fantastica",
@@ -1525,7 +1567,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw83cfbf93/1200x1200/67666_2.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "delineador-retractil",
@@ -1539,7 +1582,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/6fcd8890f5391c334c7ab75d7fbd7c09029923c8df8473f9589b801f28ec2a61185168.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "mini-lapiz-ojos",
@@ -1553,7 +1597,8 @@
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://staticpe.natura.com/cdn/ff/PNfmp6y3ruczaqad-CSrwQxfvC1M190U8-0Dat57gvI/1701700283/public/products/67661_2_18.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "delineador-fibra-ojos",
@@ -1568,7 +1613,8 @@
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/bc76d7344d16b163c4d3a65a246d0d98d0f80ac49737b58112be705e3180118d112411.jpeg",
 		"cathegory": "belleza",
-		"info": "Punta biselada para trazos precisos."
+		"info": "Punta biselada para trazos precisos.",
+		"refillment": false
 	},
 	{
 		"id": "labial-multimix-cremoso",
@@ -1582,7 +1628,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8b8d98f0/1200x1200/116204_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "gloss-maxxi-brillo",
@@ -1597,7 +1644,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc4c6b828/1200x1200/81949_1.jpg",
 		"cathegory": "belleza",
-		"info": "Cobertura leve, efecto perlado."
+		"info": "Cobertura leve, efecto perlado.",
+		"refillment": false
 	},
 	{
 		"id": "rubor-compacto",
@@ -1612,7 +1660,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa6c3e514/1200x1200/9456_1.jpg",
 		"cathegory": "belleza",
-		"info": "Cobertura leve, efecto perlado."
+		"info": "Cobertura leve, efecto perlado.",
+		"refillment": false
 	},
 	{
 		"id": "polvo-compacto-mate",
@@ -1627,7 +1676,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwefcb8ab0/1200x1200/8882_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "sombras-mono",
@@ -1641,7 +1691,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw09a473d7/1200x1200/109154_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "lapiz-ojos",
@@ -1655,7 +1706,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8d6a72d9/1200x1200/9910_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "lapiz-cejas",
@@ -1669,7 +1721,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7123cb65/1200x1200/10156_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "lapiz-kajal-color-intenso",
@@ -1683,7 +1736,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc9522e34/1200x1200/9981_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "delineador-color-precision",
@@ -1697,7 +1751,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_964653-MLA49334233920_032022-O.webp",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "multimascara-tint",
@@ -1711,7 +1766,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwdb165b90/NATARG-9833_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "supermascara-tint",
@@ -1725,7 +1781,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/094/803/products/natarg-9832_11-e82eb93532fd6922bb16887457988602-1024-1024.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "mascara-volumen-boost",
@@ -1739,7 +1796,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa78ee397/1200x1200/110262_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "mascara-alargamiento-pump",
@@ -1753,7 +1811,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw1f507a03/1200x1200/110261_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "labial-liquido-mate",
@@ -1777,7 +1836,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwac8f88ff/1200x1200/111428_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "lapiz-labios",
@@ -1791,7 +1851,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0f49205e/PRODUTOS/NATARG-9586_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "labial-color-hidra",
@@ -1805,7 +1866,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwade9b259/default/atgImported/2022-09-16/107360_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "esmalte-faces",
@@ -1832,7 +1894,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8e8d9e92/1200x1200/106536_1.jpg",
 		"cathegory": "belleza",
-		"info": "Alta cobertura. Secado rápido. Brillo wow. 10 free. Fórmula hipoalergénica."
+		"info": "Alta cobertura. Secado rápido. Brillo wow. 10 free. Fórmula hipoalergénica.",
+		"refillment": false
 	},
 	{
 		"id": "agua-micelar-purificante",
@@ -1846,7 +1909,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw280ec4f2/NATARG-69059_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "serum-rellenador-biohidratante",
@@ -1860,7 +1924,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4bea38c3/1200x1200/108634_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "gel-crema-antiseñales-renovacion",
@@ -1875,7 +1940,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwdaf13f53/NATARG-59880_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10."
+		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10.",
+		"refillment": true
 	},
 	{
 		"id": "gel-crema-antiseñales-firmeza",
@@ -1890,7 +1956,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwb7a51a23/1200x1200/102713_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10."
+		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10.",
+		"refillment": true
 	},
 	{
 		"id": "crema-antiseñales-redensificacion",
@@ -1905,7 +1972,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw49207c1c/1200x1200/102714_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10."
+		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10.",
+		"refillment": true
 	},
 	{
 		"id": "crema-antiseñales-defensa",
@@ -1920,7 +1988,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbffb7b8a/NATARG-59888_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10."
+		"info": "Repuestos disponibles, consultar precios. FPS 30, FPUVA 10.",
+		"refillment": true
 	},
 	{
 		"id": "acqua-biohidratante-renovador",
@@ -1935,7 +2004,8 @@
 		"made": ["Brasil"],
 		"image": "https://beauteflorale.com/cdn/shop/products/ChronosAcquaBiohidratanteRenovador.jpg?v=1662202898",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "serum-intensivo-antioxidante",
@@ -1949,7 +2019,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3b610253/1200x1200/131456_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "serum-intensivo-bolsas-ojeras",
@@ -1963,7 +2034,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8798744a/1200x1200/127754_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "suero-reductor-arrugas",
@@ -1978,7 +2050,8 @@
 		"made": ["Brasil"],
 		"image": "https://dcdn.mitiendanube.com/stores/030/106/products/3-7d8e8249bc2fb428e9169946553373561-ef63aa6bc83ee1320e16994655380356-1024-1024.jpg",
 		"cathegory": "belleza",
-		"info": "Concentrado de jambú. Ácido hialurónico."
+		"info": "Concentrado de jambú. Ácido hialurónico.",
+		"refillment": false
 	},
 	{
 		"id": "super-serum-reductor-arrugas",
@@ -1993,7 +2066,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw218caaea/NATARG-96735_1.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para día y noche."
+		"info": "Uso recomendado para día y noche.",
+		"refillment": false
 	},
 	{
 		"id": "serum-intensivo-lifting",
@@ -2008,7 +2082,8 @@
 		"made": ["Brasil"],
 		"image": "https://www.naturabrasil.fr/product/image/large/108636_serum_liftant_raffermissant_chronos.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para día y noche."
+		"info": "Uso recomendado para día y noche.",
+		"refillment": false
 	},
 	{
 		"id": "espuma-limpieza-sauve",
@@ -2023,7 +2098,8 @@
 		"made": ["Brasil"],
 		"image": "https://www.naturabrasil.fr/product/image/large/108636_serum_liftant_raffermissant_chronos.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. Uso recomendado para día y noche."
+		"info": "Repuestos disponibles, consultar precios. Uso recomendado para día y noche.",
+		"refillment": true
 	},
 	{
 		"id": "exfoliante-antiseñales",
@@ -2038,7 +2114,8 @@
 		"made": ["Brasil"],
 		"image": "https://dcdn.mitiendanube.com/stores/001/171/361/products/exfoliante-antisenales-chronos1-b345c0d1d271473e8d15883623691464-1024-1024.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para día y noche."
+		"info": "Uso recomendado para día y noche.",
+		"refillment": false
 	},
 	{
 		"id": "jabon-crema-hidratante",
@@ -2053,7 +2130,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw15ccc67e/NATARG-59374_1.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para día y noche."
+		"info": "Uso recomendado para día y noche.",
+		"refillment": false
 	},
 	{
 		"id": "desmaquillante-bifasico",
@@ -2068,7 +2146,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw15ccc67e/NATARG-59374_1.jpg",
 		"cathegory": "belleza",
-		"info": "Repuestos disponibles, consultar precios. Uso recomendado para día y noche."
+		"info": "Repuestos disponibles, consultar precios. Uso recomendado para día y noche.",
+		"refillment": true
 	},
 	{
 		"id": "limpieza-purificante-antioleosidad",
@@ -2083,7 +2162,8 @@
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/014/432/products/gel-de-limpieza-antioleosidad1-eaa3fc97d955958c5c15893345891769-640-0.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para día y noche."
+		"info": "Uso recomendado para día y noche.",
+		"refillment": false
 	},
 	{
 		"id": "mascara-arcilla-purificante",
@@ -2098,7 +2178,8 @@
 		"made": ["Brasil"],
 		"image": "https://www.naturabrasil.fr/product/image/large/50316169_50299774-masque-purifiant-argile-chronos.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para día y noche."
+		"info": "Uso recomendado para día y noche.",
+		"refillment": false
 	},
 	{
 		"id": "serum-nocturno-antioleosidad",
@@ -2113,7 +2194,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4d93471e/NATARG-69723_1.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para noche."
+		"info": "Uso recomendado para noche.",
+		"refillment": false
 	},
 	{
 		"id": "protector-hidratante-antioleosidad",
@@ -2128,7 +2210,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwdb8aa309/NATARG-69725_1.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para día."
+		"info": "Uso recomendado para día.",
+		"refillment": false
 	},
 	{
 		"id": "serum-intensivo-multiaclarador",
@@ -2143,7 +2226,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf244182c/NATARG-80060_1.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para noche."
+		"info": "Uso recomendado para noche.",
+		"refillment": false
 	},
 	{
 		"id": "protector-aclarador",
@@ -2158,7 +2242,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc579dd30/NATARG-80059_1.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para día."
+		"info": "Uso recomendado para día.",
+		"refillment": false
 	},
 	{
 		"id": "fluido-multiprotector",
@@ -2173,7 +2258,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw00d0d647/1200x1200/75703_1.jpg",
 		"cathegory": "belleza",
-		"info": "Uso recomendado para día."
+		"info": "Uso recomendado para día.",
+		"refillment": false
 	},
 	{
 		"id": "mascara-facial-hidraglow",
@@ -2187,7 +2273,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5fd9c8c4/1200x1200/128423_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "jabon-limpieza-facial",
@@ -2202,7 +2289,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw85b737c2/NATARG-90175_1.jpg",
 		"cathegory": "belleza",
-		"info": "Para todo tipo de piel."
+		"info": "Para todo tipo de piel.",
+		"refillment": false
 	},
 	{
 		"id": "desmaquillante-rostro",
@@ -2217,7 +2305,8 @@
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_701127-MLA41959660671_052020-O.webp",
 		"cathegory": "belleza",
-		"info": "Agua micelar."
+		"info": "Agua micelar.",
+		"refillment": false
 	},
 	{
 		"id": "hidratante-facial",
@@ -2231,7 +2320,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_771621-MLA49685699988_042022-O.webp",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "mascarilla-exfoliante",
@@ -2245,7 +2335,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbbc62b79/NATARG-105024_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "neutralizador-espinillas",
@@ -2259,7 +2350,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5639be1a/NATARG-90176_1.jpg",
-		"cathegory": "belleza"
+		"cathegory": "belleza",
+		"refillment": false
 	},
 	{
 		"id": "ekos-shampoo-murumuru",
@@ -2274,7 +2366,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwca33da4c/NATARG-80997_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-acondicionador-murumuru",
@@ -2289,7 +2382,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3e911d0a/NATARG-84738_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-serum-nocturno",
@@ -2303,7 +2397,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwe8702a3e/1200x1200/112892_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "ekos-crema-peinar",
@@ -2318,7 +2413,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4cc2d3b8/NATARG-73180_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Sin enjuage."
+		"info": "Sin enjuage.",
+		"refillment": false
 	},
 	{
 		"id": "ekos-mascara-reconstruccion",
@@ -2333,7 +2429,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5fc617e8/NATARG-73183_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Con enjuage. Usar 1-3 veces por semana."
+		"info": "Con enjuage. Usar 1-3 veces por semana.",
+		"refillment": false
 	},
 	{
 		"id": "ekos-shampoo-patatua",
@@ -2348,7 +2445,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5cc12639/NATARG-80981_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-acondicionador-patatua",
@@ -2363,7 +2461,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwe027f9f5/NATARG-81022_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-mascara-capilar",
@@ -2378,7 +2477,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5fc617e8/NATARG-73183_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Con enjuage. Usar 1-3 veces por semana."
+		"info": "Con enjuage. Usar 1-3 veces por semana.",
+		"refillment": false
 	},
 	{
 		"id": "ekos-tonico-capilar",
@@ -2393,7 +2493,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw426c4bb1/NATARG-73189_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Sin enjuage."
+		"info": "Sin enjuage.",
+		"refillment": false
 	},
 	{
 		"id": "ekos-nectar-manos",
@@ -2407,7 +2508,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa793b7e0/NATARG-80967_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "ekos-nectar-hidratante-corporal",
@@ -2422,7 +2524,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa3f9bac5/NATARG-82509_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-fluido-masajes",
@@ -2436,7 +2539,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw86c494a9/NATARG-95035_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "ekos-jabon-liquido-gel",
@@ -2451,7 +2555,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6db6db50/NATARG-70410_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-jabon-liquido-exfoliante",
@@ -2466,7 +2571,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc13adeea/NATARG-70405_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-oleo-trifasico-corporal",
@@ -2481,7 +2587,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0f40a3bc/1200x1200/97428_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-maracuya-jabon-liquido-manos",
@@ -2496,7 +2603,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8885674a/1200x1200/70401_2.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-pitanga-jabon-liquido-gel",
@@ -2511,7 +2619,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw56704e1c/NATARG-70407_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-pitanga-jabon-liquido-manos",
@@ -2526,7 +2635,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwd32d7feb/1200x1200/70403_2.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-pitanga-jabon-liquido-exfoliante",
@@ -2541,7 +2651,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw1c7cd803/NATARG-70409_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-pitanga-oleo-trifasico-corporal",
@@ -2556,7 +2667,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwfbf5c362/1200x1200/97429_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-pitanga-frescor-eau-de-toilette",
@@ -2580,7 +2692,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw98f327b9/NATARG-73575_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-pitanga-nectar-manos",
@@ -2594,7 +2707,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwd370fc36/NATARG-95034_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "ekos-ucuuba-pulpa-hidratante",
@@ -2608,7 +2722,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw15d9750f/NATARG-80969_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "ekos-ucuuba-manteca-hidratante",
@@ -2622,7 +2737,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw48236aa2/1200x1200/72981_2.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "ekos-ucuuba-pulpa-hidratante-corporal",
@@ -2637,7 +2753,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw48236aa2/1200x1200/72981_2.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-tukuma-pulpa-hidratante-manos",
@@ -2651,7 +2768,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw114f4918/NATARG-19904_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "ekos-tukuma-balsamo-concetrado",
@@ -2665,7 +2783,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbffc3f8c/default/atgImported/2022-09-16/27238_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "ekos-tukuma-pulpa-hidratante-corporal",
@@ -2680,7 +2799,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw82cf946a/1200x1200/19915_2.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "ekos-jabones-barra",
@@ -2695,7 +2815,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa7f78473/NATARG-72984_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Respeta el ph natural de la piel. 100% aceites vegetales."
+		"info": "Respeta el ph natural de la piel. 100% aceites vegetales.",
+		"refillment": false
 	},
 	{
 		"id": "tododia-jabones-barra-vegetal",
@@ -2717,7 +2838,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa194f609/NATARG-2831_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "tododia-jabon-liquido-corporal",
@@ -2732,7 +2854,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf090e55e/NATARG-5857_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "tododia-body-splash",
@@ -2746,7 +2869,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw59b78c9e/NATARG-72198_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "tododia-crema-nutritiva-mini",
@@ -2767,7 +2891,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8df30de2/1200x1200/23154_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "tododia-crema-nutritiva",
@@ -2789,7 +2914,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5d10df90/NATARG-74900_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "tododia-crema-nutritiva-manos",
@@ -2803,7 +2929,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7e80e965/NATARG-72177_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "tododia-crema-nutritiva-pies",
@@ -2817,7 +2944,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw36649560/NATARG-72181_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "tododia-gel-exfoliante",
@@ -2832,7 +2960,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw60e26e53/1200x1200/117687_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Textura en gel con semillas de damasco que exfolian removiendo las impurezas profundas."
+		"info": "Textura en gel con semillas de damasco que exfolian removiendo las impurezas profundas.",
+		"refillment": false
 	},
 	{
 		"id": "homem-desodorante-roll-on",
@@ -2846,7 +2975,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/tKzlGrIUA9IMuQxbM6J9sOAgkGsAT4GHBDk_vwjQ_-o/1704883330/public/products/72860_1_18.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "tododia-desodorante-roll-on",
@@ -2869,7 +2999,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/tKzlGrIUA9IMuQxbM6J9sOAgkGsAT4GHBDk_vwjQ_-o/1704883330/public/products/72860_1_18.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "kaiak-desodorante-roll-on",
@@ -2883,7 +3014,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/963a5704333c7b557d4b1805ce680b07414bf2752100899511efb625ea26823f35994.png",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "erva-doce-desodorante-roll-on",
@@ -2897,7 +3029,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwcbff4473/NATARG-105407_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "erva-doce-desodorante-antitranspirante",
@@ -2911,7 +3044,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw794b1410/NATARG-2179_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "humor-spray-corporal-perfumado",
@@ -2926,7 +3060,8 @@
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw32300868/NATARG-56757_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "kaiak-spray-corporal-perfumado",
@@ -2941,7 +3076,8 @@
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8f4b70c7/NATARG-56956_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "erva-doce-jabon-cremoso-manos",
@@ -2956,7 +3092,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dweb9deb1e/NATARG-26441_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "erva-doce-alcohol-en-gel",
@@ -2970,7 +3107,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/014/432/products/erva-doce-alcohol-en-gel1-efe3b216669bfc514f16311460173087-480-0.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "hidratante-corporal-post-sol",
@@ -2984,7 +3122,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw61ec3c80/1200x1200/103151_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "gel-crema-protector-facial-fps-30",
@@ -2999,7 +3138,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw47757dc3/1200x1200/103152_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Protección UVA/UVB, toque seco, complejo antioxidante. Control de oleosidad."
+		"info": "Protección UVA/UVB, toque seco, complejo antioxidante. Control de oleosidad.",
+		"refillment": false
 	},
 	{
 		"id": "gel-crema-protector-facial-fps-50",
@@ -3014,7 +3154,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwaf5a8d0e/1200x1200/103153_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Protección UVA/UVB, toque seco, complejo antioxidante. Control de oleosidad."
+		"info": "Protección UVA/UVB, toque seco, complejo antioxidante. Control de oleosidad.",
+		"refillment": false
 	},
 	{
 		"id": "locion-protectora-facial-fps-30",
@@ -3029,7 +3170,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5d890343/1200x1200/103154_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Protección UVA/UVB, textura aterciopelada, complejo antioxidante. Hidratación intensa e inmediata."
+		"info": "Protección UVA/UVB, textura aterciopelada, complejo antioxidante. Hidratación intensa e inmediata.",
+		"refillment": false
 	},
 	{
 		"id": "locion-protectora-facial-fps-50",
@@ -3044,7 +3186,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw82790595/1200x1200/103155_1.jpg",
 		"cathegory": "cuidados-diarios",
-		"info": "Protección UVA/UVB, textura aterciopelada, complejo antioxidante. Hidratación intensa e inmediata."
+		"info": "Protección UVA/UVB, textura aterciopelada, complejo antioxidante. Hidratación intensa e inmediata.",
+		"refillment": false
 	},
 	{
 		"id": "locion-protectora-corporal-fps-30",
@@ -3058,7 +3201,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0d2a285c/1200x1200/103148_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "locion-protectora-corporal-fps-50",
@@ -3072,7 +3216,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw9742d9d1/1200x1200/103149_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "locion-protectora-niños-fps-50",
@@ -3086,7 +3231,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwfafb5cf6/1200x1200/103150_1.jpg",
-		"cathegory": "cuidados-diarios"
+		"cathegory": "cuidados-diarios",
+		"refillment": false
 	},
 	{
 		"id": "lumina-shampoo-reestructurante",
@@ -3101,7 +3247,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbfecaa91/NATARG-74058_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-acondicionador-vitalidad",
@@ -3116,7 +3263,8 @@
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/014/432/products/acondicionador-provitalidad-lumina-cabellos-quimicamente-danados1-b880a2d8a3021d7f9815912330990143-480-0.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-mascara-regeneradora",
@@ -3131,7 +3279,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6e75e680/NATARG-74068_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-serum-regenerador",
@@ -3146,7 +3295,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw86746b3e/NATARG-74078_1.jpg",
 		"cathegory": "cabello",
-		"info": "Sin enjuage."
+		"info": "Sin enjuage.",
+		"refillment": false
 	},
 	{
 		"id": "lumina-tratamiento-reconstructor",
@@ -3161,7 +3311,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw134d37d1/NATARG-6070_1.jpg",
 		"cathegory": "cabello",
-		"info": "Con enjuage. Contiene primer 100ml y máscara 220ml."
+		"info": "Con enjuage. Contiene primer 100ml y máscara 220ml.",
+		"refillment": false
 	},
 	{
 		"id": "lumina-shampoo-nutritivo",
@@ -3176,7 +3327,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw400762d8/NATARG-74074_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-acondicionador-poli-nutricion",
@@ -3191,7 +3343,8 @@
 		"made": ["Brasil"],
 		"image": "https://beauteflorale.com/cdn/shop/products/acondicionador-polinutricion-cabellos-secos-348616.jpg?v=1697922054",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-mascara-reparadora",
@@ -3206,7 +3359,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6e75e680/NATARG-74068_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-crema-selladora-cuticulas",
@@ -3221,7 +3375,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa3397873/NATARG-74094_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-ampolla-reparacion",
@@ -3235,7 +3390,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_897509-MLA43395815114_092020-O.webp",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-oleo-reparador",
@@ -3249,7 +3405,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw86746b3e/NATARG-74078_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-shampoo-revitalizante",
@@ -3263,7 +3420,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw052197cf/1200x1200/800x800/126478_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-spray-renovador",
@@ -3277,7 +3435,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4ba5f4c0/1200x1200/800x800/126867_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-mascara-restauradora",
@@ -3291,7 +3450,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw73e5bd5d/1200x1200/800x800/126480_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-shampoo-cremoso",
@@ -3306,7 +3466,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw2bd360e1/1200x1200/112029_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-acondicionador-hidratante",
@@ -3321,7 +3482,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw2f6e2157/1200x1200/112024_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-mascara-recuperadora",
@@ -3336,7 +3498,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc2a2fd69/ProductosJoia_Ciclon_2023/117086_back_mob.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-crema-peinar",
@@ -3351,7 +3514,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa647a6e5/1200x1200/117084_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-acondicionador-limpieza",
@@ -3366,7 +3530,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0a5719b2/1200x1200/121245_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-gelatina-definicion-brillo",
@@ -3380,7 +3545,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw463a588f/ProductosJoia_Ciclon_2023/121241_back_mob.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-oleo-multifuncional",
@@ -3394,7 +3560,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwdb0f2587/1200x1200/121248_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-spray-humidificador-reactivador",
@@ -3408,7 +3575,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwd2142b2e/1200x1200/121251_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-shampoo-estimulante",
@@ -3423,7 +3591,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3f1c1015/1200x1200/119938_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-acondicionador-fortificante",
@@ -3438,7 +3607,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwcc9796d1/ProductosJoia_Ciclon_2023/119154_back_mob.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-mascara-antiquiebre",
@@ -3453,7 +3623,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc4a6ce99/1200x1200/119936_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-serum-nocturno",
@@ -3467,7 +3638,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw919740b1/1200x1200/119435_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-spray-antipolucion",
@@ -3481,7 +3653,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw880ae953/NATARG-74047_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-acondicionador-protector",
@@ -3496,7 +3669,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw24d70980/NATARG-74050_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-shampoo-purificante",
@@ -3511,7 +3685,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc661cb02/NATARG-74063_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-shampoo-matizador",
@@ -3525,7 +3700,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf6e6a40d/NATARG-74053_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-fluido-matizador",
@@ -3540,7 +3716,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwab07448d/NATARG-74096_1.jpg",
 		"cathegory": "cabello",
-		"info": "Reparación inmediata y progresiva en todas las capas del cabello"
+		"info": "Reparación inmediata y progresiva en todas las capas del cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-ampolla-restauracion",
@@ -3555,7 +3732,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc31478ea/NATARG-74097_1.jpg",
 		"cathegory": "cabello",
-		"info": "Con enjuage."
+		"info": "Con enjuage.",
+		"refillment": false
 	},
 	{
 		"id": "lumina-shampoo-equilibrante",
@@ -3570,7 +3748,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw03e4873d/NATARG-15139_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-acondicionador-leve",
@@ -3585,7 +3764,8 @@
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/014/432/products/acondicionador-leve-lumina-cab-oleosos1-aa5cf4402d4ca6cf6116269224753483-640-0.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-shampoo-reequilibrante",
@@ -3600,7 +3780,8 @@
 		"made": ["Brasil"],
 		"image": "https://acdn.mitiendanube.com/stores/001/014/432/products/anticaspa-shampoo-reequilibrante-lumina1-7e696301822fa7f89916425320273746-640-0.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "lumina-spray-texturizador",
@@ -3614,7 +3795,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwd14fcb90/1200x1200/109274_2.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-protector-termico",
@@ -3628,7 +3810,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbacacb3c/NATARG-2413_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "lumina-spray-volumen",
@@ -3642,7 +3825,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw9d648aba/NATARG-109275_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "plant-shampoo",
@@ -3657,7 +3841,8 @@
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw794b7f18/NATARG-37703_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "plant-acondicionador",
@@ -3672,7 +3857,8 @@
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa8eb8487/NATARG-37701_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "plant-perfume-cabello",
@@ -3686,7 +3872,8 @@
 		"vegan": true,
 		"made": ["Argentina", "Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw95f7bf5c/NATARG-80691_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "plant-mascara-reparadora",
@@ -3701,7 +3888,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw06d25eeb/NATARG-51877_1.jpg",
 		"cathegory": "cabello",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "plant-crema-peinar",
@@ -3715,7 +3903,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwd322ceca/NATARG-51878_1.jpg",
-		"cathegory": "cabello"
+		"cathegory": "cabello",
+		"refillment": false
 	},
 	{
 		"id": "nature-colonia",
@@ -3731,7 +3920,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw43b0df16/NATARG-74776_1.jpg",
-		"cathegory": "infantiles"
+		"cathegory": "infantiles",
+		"refillment": false
 	},
 	{
 		"id": "nature-mistureba-jabones",
@@ -3745,7 +3935,8 @@
 		"vegan": false,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5fc04498/NATARG-32542_1.jpg",
-		"cathegory": "infantiles"
+		"cathegory": "infantiles",
+		"refillment": false
 	},
 	{
 		"id": "nature-toin-oin-oin-shampoo",
@@ -3760,7 +3951,8 @@
 		"made": ["Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/hqS8Zv5DVRlEJWk9pMMkCzyyA4btShGYwcYk3lfCEn0/1661178206/public/2022-08/Imagen_01_85.jpg",
 		"cathegory": "infantiles",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "nature-toin-oin-oin-acondicionador",
@@ -3775,7 +3967,8 @@
 		"made": ["Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/hqS8Zv5DVRlEJWk9pMMkCzyyA4btShGYwcYk3lfCEn0/1661178206/public/2022-08/Imagen_01_85.jpg",
 		"cathegory": "infantiles",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "nature-splack-shampoo",
@@ -3790,7 +3983,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf7970e2d/default/atgImported/2022-09-16/27387_1.jpg",
 		"cathegory": "infantiles",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "nature-splack-acondicionador",
@@ -3805,7 +3999,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwe2475de4/NATARG-27385_1.jpg",
 		"cathegory": "infantiles",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "mamaybebe-oleo-vegetal-baño",
@@ -3819,7 +4014,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_968438-MLA71571044260_092023-O.webp",
-		"cathegory": "infantiles"
+		"cathegory": "infantiles",
+		"refillment": false
 	},
 	{
 		"id": "mamaybebe-emulsion-prevencion-estrias",
@@ -3833,7 +4029,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://d22fxaf9t8d39k.cloudfront.net/6feef023f8c6ce2a79abc6a8767c94419b3f443cdfad8d7bad778fbc4e813318163470.jpeg",
-		"cathegory": "infantiles"
+		"cathegory": "infantiles",
+		"refillment": false
 	},
 	{
 		"id": "mamaybebe-jabones-barra",
@@ -3847,7 +4044,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw18e3bad2/NATARG-92795_1.jpg",
-		"cathegory": "infantiles"
+		"cathegory": "infantiles",
+		"refillment": false
 	},
 	{
 		"id": "mamaybebe-agua-colonia",
@@ -3861,7 +4059,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://staticpe.natura.com/cdn/ff/RFpSt18KWLp-W-durCc79s82BKoX2y1BTWDO0y8D0oA/1655150389/public/2022-06/Imagen_01_64.jpg",
-		"cathegory": "infantiles"
+		"cathegory": "infantiles",
+		"refillment": false
 	},
 	{
 		"id": "mamaybebe-oleo-masajes",
@@ -3875,7 +4074,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://http2.mlstatic.com/D_NQ_NP_711460-MLA71931597175_092023-O.webp",
-		"cathegory": "infantiles"
+		"cathegory": "infantiles",
+		"refillment": false
 	},
 	{
 		"id": "mamaybebe-toallitas-limpieza",
@@ -3889,7 +4089,8 @@
 		"vegan": true,
 		"made": ["Brasil"],
 		"image": "https://m.media-amazon.com/images/I/51yLBGblAQS.jpg",
-		"cathegory": "infantiles"
+		"cathegory": "infantiles",
+		"refillment": false
 	},
 	{
 		"id": "mamaybebe-shampoo",
@@ -3904,7 +4105,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4c5afc3f/NATARG-92790_1.jpg",
 		"cathegory": "infantiles",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "mamaybebe-locion-hidratante",
@@ -3919,7 +4121,8 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7a71ebee/1200x1200/106418_1.jpg",
 		"cathegory": "infantiles",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	},
 	{
 		"id": "mamaybebe-jabon-liquido",
@@ -3934,6 +4137,7 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwb88d247d/NATARG-92800_1.jpg",
 		"cathegory": "infantiles",
-		"info": "Repuestos disponibles, consultar precios."
+		"info": "Repuestos disponibles, consultar precios.",
+		"refillment": true
 	}
 ]
