@@ -116,6 +116,7 @@ const ProductList = () => {
 									magazinePrice={product.magazinePrice}
 									price={product.price}
 									image={product.image}
+									refillment={product.refillment}
 								/>
 							);
 						})}
