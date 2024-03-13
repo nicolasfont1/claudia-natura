@@ -243,21 +243,6 @@
 		"refillment": true
 	},
 	{
-		"id": "essencial-unico-masculino",
-		"name": "Essencial único eau de parfum masculino",
-		"size": 100,
-		"sizeUnit": "ml",
-		"inmediateDelivery": false,
-		"magazinePrice": 89560,
-		"price": 0,
-		"variants": [],
-		"vegan": true,
-		"made": ["Brasil"],
-		"image": "https://fraguru.com/mdimg/perfume/375x500.52563.jpg",
-		"cathegory": "perfumeria",
-		"refillment": false
-	},
-	{
 		"id": "homem-masculino",
 		"name": "Homem eau de parfum masculino",
 		"size": 100,
