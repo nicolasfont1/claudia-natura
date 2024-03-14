@@ -188,31 +188,31 @@ const Page = () => {
 						<Divider orientation="horizontal" sx={{ my: 2 }} />
 						<Card variant="soft" sx={{ mt: 1, bgcolor: "#00000030" }}>
 							<CardContent>
-								<Stack direction="row" justifyContent="space-between" sx={{width: '100%'}}>
-									<Stack direction="column" sx={{width: '75%'}}>
-										<Typography fontWeight="xs" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.7 }}>
-											Seleccionar variante
-										</Typography>
-										<Select
-											disabled={product.variants.length === 0}
-											name="variant"
-											size="md"
-											variant="soft"
-											placeholder="Elegir..."
-											color="neutral"
-											onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, variant: newValue })}
-											defaultValue={product.variants.length === 1 ? product.variants[0] : null}
-											sx={{ bgcolor: "#00000020", color: "#000000" }}>
-											{product.variants.map((variant, index) => {
-												return (
-													<Option key={index} value={variant}>
-														{variant}
-													</Option>
-												);
-											})}
-										</Select>
-									</Stack>
-									<Stack direction="column" sx={{ width: '18%' }}>
+								<Stack direction="row" justifyContent="space-between" sx={{ width: "100%" }}>
+									{ product.variants.length !== 0 &&
+										<Stack direction="column" sx={{ width: "75%" }}>
+											<Typography fontWeight="xs" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.7 }}>
+												Seleccionar variante
+											</Typography>
+											<Select
+												name="variant"
+												size="md"
+												variant="soft"
+												placeholder="Elegir..."
+												color="neutral"
+												onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, variant: newValue })}
+												sx={{ bgcolor: "#00000020", color: "#000000" }}>
+												{product.variants.map((variant, index) => {
+													return (
+														<Option key={index} value={variant}>
+															{variant}
+														</Option>
+													);
+												})}
+											</Select>
+										</Stack>
+									}
+									<Stack direction="column" sx={product.variants.length === 0 ? {width: '100%'} : {width: '18%'}}>
 										<Typography fontWeight="xs" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.7 }}>
 											Cantidad
 										</Typography>
@@ -223,7 +223,7 @@ const Page = () => {
 											defaultValue={1}
 											color="neutral"
 											onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, amount: newValue })}
-											sx={{ bgcolor: "#00000020", color: "#000000", width: '100%' }}>
+											sx={{ bgcolor: "#00000020", color: "#000000", width: "100%" }}>
 											<Option value={1}>1</Option>
 											<Option value={2}>2</Option>
 											<Option value={3}>3</Option>
