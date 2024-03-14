@@ -166,7 +166,7 @@
 	},
 	{
 		"id": "illia-femenino",
-		"name": "Una eau de parfum femenino",
+		"name": "Illia eau de parfum femenino",
 		"size": 50,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1370,7 +1370,7 @@
 	},
 	{
 		"id": "labial-lip-tint",
-		"name": "Labial lip tint",
+		"name": "Faces Labial lip tint",
 		"size": 3.9,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1385,7 +1385,7 @@
 	},
 	{
 		"id": "delineador-liquido",
-		"name": "Delineador líquido",
+		"name": "Faces Delineador líquido",
 		"size": 2.5,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1400,7 +1400,7 @@
 	},
 	{
 		"id": "mascara-cejas-marron",
-		"name": "Máscara de cejas marrón",
+		"name": "Faces Máscara de cejas marrón",
 		"size": 3.5,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1415,7 +1415,7 @@
 	},
 	{
 		"id": "gel-glitter",
-		"name": "Gel glitter",
+		"name": "Faces Gel glitter",
 		"size": 80,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1431,7 +1431,7 @@
 	},
 	{
 		"id": "base-liquida-check",
-		"name": "Base líquida check mate",
+		"name": "Faces Base líquida check mate",
 		"size": 20,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1465,7 +1465,7 @@
 	},
 	{
 		"id": "iluminador-duo-superbrillo",
-		"name": "Iluminador dúo súper brillo",
+		"name": "Faces Iluminador dúo súper brillo",
 		"size": 2.5,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1480,7 +1480,7 @@
 	},
 	{
 		"id": "corrector-check-mate",
-		"name": "Corrector check mate",
+		"name": "Faces Corrector check mate",
 		"size": 10,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1496,7 +1496,7 @@
 	},
 	{
 		"id": "sombra-trio",
-		"name": "Sombra trío",
+		"name": "Faces Sombra trío",
 		"size": 3,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1512,7 +1512,7 @@
 	},
 	{
 		"id": "mascara-fantastica",
-		"name": "Máscara fantástica incolora",
+		"name": "Faces Máscara fantástica incolora",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1527,7 +1527,7 @@
 	},
 	{
 		"id": "mascara-volume-fever",
-		"name": "Máscara volume fever",
+		"name": "Faces Máscara volume fever",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1542,7 +1542,7 @@
 	},
 	{
 		"id": "mascara-mega-fantastica",
-		"name": "Máscara mega fantástica negra",
+		"name": "Faces Máscara mega fantástica negra",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1557,7 +1557,7 @@
 	},
 	{
 		"id": "delineador-retractil",
-		"name": "Delineador retráctil",
+		"name": "Faces Delineador retráctil",
 		"size": 280,
 		"sizeUnit": "mg",
 		"inmediateDelivery": false,
@@ -1572,7 +1572,7 @@
 	},
 	{
 		"id": "mini-lapiz-ojos",
-		"name": "Mini lápiz para ojos súper negro",
+		"name": "Faces Mini lápiz para ojos súper negro",
 		"size": 800,
 		"sizeUnit": "mg",
 		"inmediateDelivery": false,
@@ -1587,7 +1587,7 @@
 	},
 	{
 		"id": "delineador-fibra-ojos",
-		"name": "Delineador en fibra para ojos",
+		"name": "Faces Delineador en fibra para ojos",
 		"size": 1,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1603,7 +1603,7 @@
 	},
 	{
 		"id": "labial-multimix-cremoso",
-		"name": "Labial multimix cremoso",
+		"name": "Faces Labial multimix cremoso",
 		"size": 3.5,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1618,7 +1618,7 @@
 	},
 	{
 		"id": "gloss-maxxi-brillo",
-		"name": "Gloss maxxi brillo",
+		"name": "Faces Gloss maxxi brillo",
 		"size": 12,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1634,7 +1634,7 @@
 	},
 	{
 		"id": "rubor-compacto",
-		"name": "Rubor compacto",
+		"name": "Faces Rubor compacto",
 		"size": 3,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1650,7 +1650,7 @@
 	},
 	{
 		"id": "polvo-compacto-mate",
-		"name": "Polvo compacto mate",
+		"name": "Faces Polvo compacto mate",
 		"size": 6.5,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1666,7 +1666,7 @@
 	},
 	{
 		"id": "sombras-mono",
-		"name": "Sombras mono",
+		"name": "Faces Sombras mono",
 		"size": 1.5,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1681,7 +1681,7 @@
 	},
 	{
 		"id": "lapiz-ojos",
-		"name": "Lápiz para ojos",
+		"name": "Faces Lápiz para ojos",
 		"size": 1.3,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1696,7 +1696,7 @@
 	},
 	{
 		"id": "lapiz-cejas",
-		"name": "Lápiz para cejas",
+		"name": "Faces Lápiz para cejas",
 		"size": 1.14,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1711,7 +1711,7 @@
 	},
 	{
 		"id": "lapiz-kajal-color-intenso",
-		"name": "Lápiz Kajal color intenso",
+		"name": "Faces Lápiz Kajal color intenso",
 		"size": 1.3,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1726,7 +1726,7 @@
 	},
 	{
 		"id": "delineador-color-precision",
-		"name": "Delineador color y precisión negro",
+		"name": "Faces Delineador color y precisión negro",
 		"size": 3.5,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1741,7 +1741,7 @@
 	},
 	{
 		"id": "multimascara-tint",
-		"name": "Multimáscara tint a prueba de agua",
+		"name": "Faces Multimáscara tint a prueba de agua",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1756,7 +1756,7 @@
 	},
 	{
 		"id": "supermascara-tint",
-		"name": "Supermáscara tint para pestañas lavable",
+		"name": "Faces Supermáscara tint para pestañas lavable",
 		"size": 12,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
