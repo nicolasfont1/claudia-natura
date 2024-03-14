@@ -1771,7 +1771,7 @@
 	},
 	{
 		"id": "mascara-volumen-boost",
-		"name": "Máscara volumen boost lavable",
+		"name": "Faces Máscara volumen boost lavable",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1786,7 +1786,7 @@
 	},
 	{
 		"id": "mascara-alargamiento-pump",
-		"name": "Máscara alargamiento pump lavable",
+		"name": "Faces Máscara alargamiento pump lavable",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1801,7 +1801,7 @@
 	},
 	{
 		"id": "labial-liquido-mate",
-		"name": "Labial líquido mate larga duración",
+		"name": "Faces Labial líquido mate larga duración",
 		"size": 5.5,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1826,7 +1826,7 @@
 	},
 	{
 		"id": "lapiz-labios",
-		"name": "Lápiz para labios",
+		"name": "Faces Lápiz para labios",
 		"size": 1.4,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1841,7 +1841,7 @@
 	},
 	{
 		"id": "labial-color-hidra",
-		"name": "Labial color hidra FPS 8",
+		"name": "Faces Labial color hidra FPS 8",
 		"size": 3.5,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1856,7 +1856,7 @@
 	},
 	{
 		"id": "esmalte-faces",
-		"name": "Esmalte Faces",
+		"name": "Faces Esmalte",
 		"size": 6,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1884,7 +1884,7 @@
 	},
 	{
 		"id": "agua-micelar-purificante",
-		"name": "Agua micelar purificante",
+		"name": "Chronos Agua micelar purificante",
 		"size": 150,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1899,7 +1899,7 @@
 	},
 	{
 		"id": "serum-rellenador-biohidratante",
-		"name": "Sérum rellenador biohidratante",
+		"name": "Chronos Sérum rellenador biohidratante",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1914,7 +1914,7 @@
 	},
 	{
 		"id": "gel-crema-antiseñales-renovacion",
-		"name": "Gel crema antiseñales renovación y energía",
+		"name": "Chronos Gel crema antiseñales renovación y energía",
 		"size": 40,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1930,7 +1930,7 @@
 	},
 	{
 		"id": "gel-crema-antiseñales-firmeza",
-		"name": "Gel crema antiseñales firmeza y luminosidad",
+		"name": "Chronos Gel crema antiseñales firmeza y luminosidad",
 		"size": 40,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1946,7 +1946,7 @@
 	},
 	{
 		"id": "crema-antiseñales-redensificacion",
-		"name": "Crema antiseñales redensificación y revitalización",
+		"name": "Chronos Crema antiseñales redensificación y revitalización",
 		"size": 40,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1962,7 +1962,7 @@
 	},
 	{
 		"id": "crema-antiseñales-defensa",
-		"name": "Crema antiseñales defensa y restauración",
+		"name": "Chronos Crema antiseñales defensa y restauración",
 		"size": 40,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1978,7 +1978,7 @@
 	},
 	{
 		"id": "acqua-biohidratante-renovador",
-		"name": "Acqua biohidratante renovador",
+		"name": "Chronos Acqua biohidratante renovador",
 		"size": 40,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1994,7 +1994,7 @@
 	},
 	{
 		"id": "serum-intensivo-antioxidante",
-		"name": "Sérum intensivo antioxidante",
+		"name": "Chronos Sérum intensivo antioxidante",
 		"size": 15,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2009,7 +2009,7 @@
 	},
 	{
 		"id": "serum-intensivo-bolsas-ojeras",
-		"name": "Sérum intensivo para bolsas y ojeras",
+		"name": "Chronos Sérum intensivo para bolsas y ojeras",
 		"size": 15,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2024,7 +2024,7 @@
 	},
 	{
 		"id": "suero-reductor-arrugas",
-		"name": "Suero reductor de arrugas",
+		"name": "Chronos Suero reductor de arrugas",
 		"size": 15,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2040,7 +2040,7 @@
 	},
 	{
 		"id": "super-serum-reductor-arrugas",
-		"name": "Súper sérum reductor de arrugas",
+		"name": "Chronos Súper sérum reductor de arrugas",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2056,7 +2056,7 @@
 	},
 	{
 		"id": "serum-intensivo-lifting",
-		"name": "Sérum intensivo lifting y firmeza",
+		"name": "Chronos Sérum intensivo lifting y firmeza",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2072,7 +2072,7 @@
 	},
 	{
 		"id": "espuma-limpieza-sauve",
-		"name": "Espuma de limpieza suave",
+		"name": "Chronos Espuma de limpieza suave",
 		"size": 150,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2088,7 +2088,7 @@
 	},
 	{
 		"id": "exfoliante-antiseñales",
-		"name": "Exfoliante antiseñales",
+		"name": "Chronos Exfoliante antiseñales",
 		"size": 50,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2104,7 +2104,7 @@
 	},
 	{
 		"id": "jabon-crema-hidratante",
-		"name": "Jabón crema hidratante",
+		"name": "Chronos Jabón crema hidratante",
 		"size": 115,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2120,7 +2120,7 @@
 	},
 	{
 		"id": "desmaquillante-bifasico",
-		"name": "Desmaquillante bifásico",
+		"name": "Chronos Desmaquillante bifásico",
 		"size": 150,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2136,7 +2136,7 @@
 	},
 	{
 		"id": "limpieza-purificante-antioleosidad",
-		"name": "Limpieza purificante antioleosidad",
+		"name": "Chronos Limpieza purificante antioleosidad",
 		"size": 130,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2152,7 +2152,7 @@
 	},
 	{
 		"id": "mascara-arcilla-purificante",
-		"name": "Máscara de arcilla purificante",
+		"name": "Chronos Máscara de arcilla purificante",
 		"size": 70,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2168,7 +2168,7 @@
 	},
 	{
 		"id": "serum-nocturno-antioleosidad",
-		"name": "Sérum nocturno antioleosidad y poros",
+		"name": "Chronos Sérum nocturno antioleosidad y poros",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2184,7 +2184,7 @@
 	},
 	{
 		"id": "protector-hidratante-antioleosidad",
-		"name": "Protector hidratante antioleosidad incoloro",
+		"name": "Chronos Protector hidratante antioleosidad incoloro",
 		"size": 50,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2200,7 +2200,7 @@
 	},
 	{
 		"id": "serum-intensivo-multiaclarador",
-		"name": "Sérum intensivo multiaclarador",
+		"name": "Chronos Sérum intensivo multiaclarador",
 		"size": 30,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2216,7 +2216,7 @@
 	},
 	{
 		"id": "protector-aclarador",
-		"name": "Protector aclarador FPS 50+",
+		"name": "Chronos Protector aclarador FPS 50+",
 		"size": 50,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2232,7 +2232,7 @@
 	},
 	{
 		"id": "fluido-multiprotector",
-		"name": "Fluido multiprotector FPS 50",
+		"name": "Chronos Fluido multiprotector FPS 50",
 		"size": 50,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2248,7 +2248,7 @@
 	},
 	{
 		"id": "mascara-facial-hidraglow",
-		"name": "Máscara facial hidra glow",
+		"name": "Faces Máscara facial hidra glow",
 		"size": 50,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2263,7 +2263,7 @@
 	},
 	{
 		"id": "jabon-limpieza-facial",
-		"name": "Jabón de limpieza facial",
+		"name": "Faces Jabón de limpieza facial",
 		"size": 120,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2279,7 +2279,7 @@
 	},
 	{
 		"id": "desmaquillante-rostro",
-		"name": "Desmaquillante para rostro",
+		"name": "Faces Desmaquillante para rostro",
 		"size": 120,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2295,7 +2295,7 @@
 	},
 	{
 		"id": "hidratante-facial",
-		"name": "Hidratante facial",
+		"name": "Faces Hidratante facial",
 		"size": 50,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2310,7 +2310,7 @@
 	},
 	{
 		"id": "mascarilla-exfoliante",
-		"name": "Mascarilla exfoliante reductora de poros",
+		"name": "Faces Mascarilla exfoliante reductora de poros",
 		"size": 50,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2325,7 +2325,7 @@
 	},
 	{
 		"id": "neutralizador-espinillas",
-		"name": "Neutralizador de espinillas",
+		"name": "Faces Neutralizador de espinillas",
 		"size": 10,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
