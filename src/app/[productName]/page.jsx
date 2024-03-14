@@ -262,8 +262,8 @@ const Page = () => {
 							level="body-xs"
 							textColor="neutral.600"
 							sx={{ opacity: 0.6, alignItems: "center", display: "flex", justifyContent: "center", mb: 2 }}>
-							Podés revisar tu orden desde la pestaña "Mi pedido <ShoppingCartIcon sx={{ fontSize: 13, ml: 0.3 }} />
-							".
+							Podés revisar tu orden desde la pestaña &quot;Mi pedido <ShoppingCartIcon sx={{ fontSize: 13, ml: 0.3 }} />	
+							&quot;.
 						</Typography>
 					</Box>
 				</Box>
