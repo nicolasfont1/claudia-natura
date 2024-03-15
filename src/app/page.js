@@ -34,8 +34,8 @@ export default function Home() {
 
   return (
     <CssVarsProvider theme={theme}>
-      <Stack alignItems="center">
-        <Stack direction="column" justifyContent="space-between" sx={{ minHeight: '100svh', width: '100%', maxWidth: 540, position: 'relative', borderLeft: 1, borderRight: 1, borderColor: '#dde8ee' }}>
+      <Stack alignItems="center" sx={{background: '#a79690'}}>
+        <Stack direction="column" justifyContent="space-between" sx={{ minHeight: '100svh', width: '100%', maxWidth: 540, position: 'relative' }}>
           <Box sx={{ paddingBottom: '50px' }}>
             <Navbar />
             <Tabs aria-label="Application tabs" defaultValue={0}>
