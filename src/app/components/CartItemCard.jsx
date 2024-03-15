@@ -15,17 +15,18 @@ import { useState } from "react";
 import DeleteItemModal from "./DeleteItemModal";
 
 const CartItemCard = ({ name, image, variant, amount, price }) => {
-  const [modalOpen, setModalOpen] = useState(false);
+	const [modalOpen, setModalOpen] = useState(false);
 
 	return (
-    <Card orientation="horizontal" variant="outlined" sx={{ width: "95%", bgcolor: "#efebe9", maxWidth: 540, p: 0.8 }}>
-        <DeleteItemModal setModalOpen={setModalOpen} modalOpen={modalOpen} itemName={name} itemVariant={variant} />
-        <CardOverflow sx={{ background: "#FFFFFF" }}>
-          <AspectRatio ratio="1" sx={{ width: 90, alignSelf: "center" }} objectFit="contain">
-            <img src={image} loading="lazy" style={{ background: "#FFFFFF" }} />
-          </AspectRatio>
-        </CardOverflow>
-        <CardContent>
+		<Card orientation="horizontal" variant="outlined" sx={{ width: "95%", bgcolor: "#efebe9", maxWidth: 540, p: 0.8 }}>
+			<DeleteItemModal setModalOpen={setModalOpen} modalOpen={modalOpen} itemName={name} itemVariant={variant} />
+			<CardOverflow sx={{ background: "#FFFFFF" }}>
+				<AspectRatio ratio="1" sx={{ width: 90, alignSelf: "center" }} objectFit="contain">
+					<img src={image} loading="lazy" style={{ background: "#FFFFFF" }} />
+				</AspectRatio>
+			</CardOverflow>
+			<CardContent>
+				<Stack direction="column" justifyContent="space-between" sx={{height: '100%'}}>
           <Stack direction="row" justifyContent="space-between">
             <Typography fontWeight="md" level="body-sm" textColor="neutral.600" lineHeight={1.1}>
               {name}
@@ -49,14 +50,23 @@ const CartItemCard = ({ name, image, variant, amount, price }) => {
           <Typography level="body-xs" textColor="neutral.400">
             {variant}
           </Typography>
-          <Typography level="body-xs" textColor="neutral.400">
-            {amount} {amount > 1 ? "unidades" : "unidad"}
-          </Typography>
-          <Typography level="body-md" fontWeight="md" color="success">
-            ${price * amount}
-          </Typography>
-        </CardContent>
-      </Card>
+          {amount !== 0 && (
+            <Typography level="body-xs" textColor="neutral.400">
+              {amount} {amount > 1 ? "unidades" : "unidad"}
+            </Typography>
+          )}
+          {price === 0 ? (
+            <Typography level="body-md" fontWeight="md" color="success">
+              Consulta de precio
+            </Typography>
+          ) : (
+            <Typography level="body-md" fontWeight="md" color="success">
+              ${price * amount}
+            </Typography>
+          )}
+        </Stack>
+			</CardContent>
+		</Card>
 	);
 };
 export default CartItemCard;
