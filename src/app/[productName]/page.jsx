@@ -27,6 +27,7 @@ import { useRouter } from "next/navigation";
 import SnackbarChooseVariant from "../components/SnackbarChooseVariant";
 import SnackbarAddedItem from "../components/SnackbarAddedItem";
 import SnackbarShare from "../components/SnackbarShare";
+import InfoOutlinedIcon from "@mui/icons-material/InfoOutlined";
 
 const Page = () => {
 	const router = useRouter();
@@ -37,7 +38,7 @@ const Page = () => {
 		name: product.name,
 		image: product.image,
 		variant: "",
-		amount: 1,
+		amount: 0,
 		price: product.price,
 	});
 
@@ -74,7 +75,7 @@ const Page = () => {
 	const [openSnackbarSuccess, setOpenSnackbarSuccess] = useState(false);
 
 	return (
-		<Stack alignItems="center">
+		<Stack alignItems="center" sx={{ background: "#a79690" }}>
 			<Stack
 				direction="column"
 				justifyContent="center"
@@ -82,9 +83,7 @@ const Page = () => {
 					maxWidth: 540,
 					width: "100%",
 					position: "relative",
-					borderLeft: 1,
-					borderRight: 1,
-					borderColor: "#dde8ee",
+					background: "#bcaaa4",
 				}}>
 				<SnackbarChooseVariant
 					openSnackbarVariant={openSnackbarVariant}
@@ -128,9 +127,15 @@ const Page = () => {
 									<Typography fontWeight="xs" level="body-md" textColor="neutral.600">
 										Precio de revista: ${product.magazinePrice}.
 									</Typography>
-									<Typography fontWeight="md" level="h2" textColor="neutral">
-										${product.price}
-									</Typography>
+									{product.price ? (
+										<Typography fontWeight="md" level="h2" textColor="neutral">
+											${product.price}
+										</Typography>
+									) : (
+										<Typography fontWeight="md" level="h2" textColor="neutral">
+											Consultar precio
+										</Typography>
+									)}
 								</Stack>
 								<Stack justifyContent="center">
 									<IconButton
@@ -142,6 +147,18 @@ const Page = () => {
 									</IconButton>
 								</Stack>
 							</Stack>
+							{product.price === 0 && (
+								<>
+									<Divider orientation="horizontal" sx={{ mt: 1, mb: 2 }} />
+									<Stack direction="row" alignItems="center" sx={{ opacity: 0.7, mb: 1 }}>
+										<InfoOutlinedIcon sx={{ mr: 1, color: "#616A6B" }} />
+										<Typography fontWeight="md" level="body" textColor="neutral.700">
+											Natura tiene cientos de productos y de momento no tengo el precio de todos, pero si querés saberlo
+											podés agregarlo a tu pedido y yo te lo averiguo!
+										</Typography>
+									</Stack>
+								</>
+							)}
 							<Divider orientation="horizontal" sx={{ mt: 1, mb: 2 }} />
 							<Stack direction="row" justifyContent="space-around">
 								{product.inmediateDelivery ? (
@@ -165,18 +182,22 @@ const Page = () => {
 									</Chip>
 								)}
 							</Stack>
-							<Divider orientation="horizontal" sx={{ mt: 2, mb: 1 }} />
-							<Typography fontWeight="md" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.6, mt: 1 }}>
-								Disponible en:
-							</Typography>
-							<Typography fontWeight="md" level="body-sm" textColor="neutral.500">
-								{product.variants.map((variant, index) =>
-									index !== product.variants.length - 1 ? variant + ", " : variant + "."
-								)}
-							</Typography>
+							{(product.variants.length !== 0 || product.info) && <Divider orientation="horizontal" sx={{ my: 2 }} />}
+							{product.variants.length !== 0 && (
+								<>
+									<Typography fontWeight="md" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.6 }}>
+										Disponible en:
+									</Typography>
+									<Typography fontWeight="md" level="body-sm" textColor="neutral.500" sx={{ mb: 1 }}>
+										{product.variants.map((variant, index) =>
+											index !== product.variants.length - 1 ? variant + ", " : variant + "."
+										)}
+									</Typography>
+								</>
+							)}
 							{product.info && (
 								<>
-									<Typography fontWeight="md" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.6, mt: 1 }}>
+									<Typography fontWeight="md" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.6 }}>
 										Acerca del producto:
 									</Typography>
 									<Typography fontWeight="md" level="body-sm" textColor="neutral.500">
@@ -185,55 +206,57 @@ const Page = () => {
 								</>
 							)}
 						</Stack>
-						<Divider orientation="horizontal" sx={{ my: 2 }} />
-						<Card variant="soft" sx={{ mt: 1, bgcolor: "#00000030" }}>
-							<CardContent>
-								<Stack direction="row" justifyContent="space-between" sx={{ width: "100%" }}>
-									{ product.variants.length !== 0 &&
-										<Stack direction="column" sx={{ width: "75%" }}>
+						<Divider orientation="horizontal" sx={{ mt: 2, mb: 1 }} />
+						{product.price !== 0 && (
+							<Card variant="soft" sx={{ mt: 2, bgcolor: "#00000030" }}>
+								<CardContent>
+									<Stack direction="row" justifyContent="space-between" sx={{ width: "100%" }}>
+										{product.variants.length !== 0 && (
+											<Stack direction="column" sx={{ width: "75%" }}>
+												<Typography fontWeight="xs" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.7 }}>
+													Seleccionar variante
+												</Typography>
+												<Select
+													name="variant"
+													size="md"
+													variant="soft"
+													placeholder="Elegir..."
+													color="neutral"
+													onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, variant: newValue })}
+													sx={{ bgcolor: "#00000020", color: "#000000" }}>
+													{product.variants.map((variant, index) => {
+														return (
+															<Option key={index} value={variant}>
+																{variant}
+															</Option>
+														);
+													})}
+												</Select>
+											</Stack>
+										)}
+										<Stack direction="column" sx={product.variants.length === 0 ? { width: "100%" } : { width: "18%" }}>
 											<Typography fontWeight="xs" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.7 }}>
-												Seleccionar variante
+												Cantidad
 											</Typography>
 											<Select
-												name="variant"
+												name="amount"
 												size="md"
 												variant="soft"
-												placeholder="Elegir..."
+												defaultValue={1}
 												color="neutral"
-												onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, variant: newValue })}
-												sx={{ bgcolor: "#00000020", color: "#000000" }}>
-												{product.variants.map((variant, index) => {
-													return (
-														<Option key={index} value={variant}>
-															{variant}
-														</Option>
-													);
-												})}
+												onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, amount: newValue })}
+												sx={{ bgcolor: "#00000020", color: "#000000", width: "100%" }}>
+												<Option value={1}>1</Option>
+												<Option value={2}>2</Option>
+												<Option value={3}>3</Option>
+												<Option value={4}>4</Option>
+												<Option value={5}>5</Option>
 											</Select>
 										</Stack>
-									}
-									<Stack direction="column" sx={product.variants.length === 0 ? {width: '100%'} : {width: '18%'}}>
-										<Typography fontWeight="xs" level="body-sm" textColor="neutral.700" sx={{ opacity: 0.7 }}>
-											Cantidad
-										</Typography>
-										<Select
-											name="amount"
-											size="md"
-											variant="soft"
-											defaultValue={1}
-											color="neutral"
-											onChange={(event, newValue) => setSelectedProduct({ ...selectedProduct, amount: newValue })}
-											sx={{ bgcolor: "#00000020", color: "#000000", width: "100%" }}>
-											<Option value={1}>1</Option>
-											<Option value={2}>2</Option>
-											<Option value={3}>3</Option>
-											<Option value={4}>4</Option>
-											<Option value={5}>5</Option>
-										</Select>
 									</Stack>
-								</Stack>
-							</CardContent>
-						</Card>
+								</CardContent>
+							</Card>
+						)}
 						{!showGoBack ? (
 							<Button
 								sx={{ width: "100%", my: 3 }}
@@ -262,7 +285,8 @@ const Page = () => {
 							level="body-xs"
 							textColor="neutral.600"
 							sx={{ opacity: 0.6, alignItems: "center", display: "flex", justifyContent: "center", mb: 2 }}>
-							Podés revisar tu orden desde la pestaña &quot;Mi pedido <ShoppingCartIcon sx={{ fontSize: 13, ml: 0.3 }} />	
+							Podés revisar tu orden desde la pestaña &quot;Mi pedido{" "}
+							<ShoppingCartIcon sx={{ fontSize: 13, ml: 0.3 }} />
 							&quot;.
 						</Typography>
 					</Box>
