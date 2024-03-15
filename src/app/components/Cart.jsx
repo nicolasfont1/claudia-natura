@@ -21,24 +21,27 @@ const Cart = () => {
 
 	const redirectToWsp = () => {
 		let totalPrice = 0;
-		let wspQuery = `%2AMI+PEDIDO+DE+NATURA%3A%2A%0D——————————————%0D`;
+		let wspQuery = `%2AMI+PEDIDO+DE+NATURA%3A%2A%0A———————————%0A`;
 
 		cartState.forEach((product) => {
 			totalPrice += product.price * product.amount;
-			wspQuery = wspQuery + `${product.name}%0D`;
-			wspQuery = wspQuery + `_${product.variant}_%0D`;
-			wspQuery = wspQuery + `%2A${product.amount}%2A+${product.amount === 1 ? "unidad" : "unidades"}%0D`;
-			wspQuery = wspQuery + `$${product.price * product.amount}%0D——————————————%0D`;
+			wspQuery = wspQuery + `${product.name}%0A`;
+			wspQuery = wspQuery + `${product.variant ? `_${product.variant}_%0A` : ""}`;
+			wspQuery =
+				wspQuery +
+				`${product.amount ? `%2A${product.amount}%2A+${product.amount === 1 ? "unidad" : "unidades"}%0A` : ""}`;
+			wspQuery = wspQuery + `${product.price === 0 ? 'Consulta de precio' : `$${product.price * product.amount}`}%0A———————————%0A`;
 		});
 
 		wspQuery = wspQuery + `%2ATOTAL%3A $${totalPrice}%2A`;
 
 		router.push(`https://wa.me/3513924836/?text=${wspQuery}`);
 
-		//%0D es un enter
+		//%20 es un space
+		//%0D es un enter MAL
 		//%2A es un *
 		//%3A es un :
-		//%0A es un -
+		//%0A es un line break
 	};
 
 	useEffect(() => {
@@ -55,7 +58,7 @@ const Cart = () => {
 	}, [cartState]);
 
 	return (
-		<Box sx={{width: '100%'}}>
+		<Box sx={{ width: "100%" }}>
 			{!cartState.length ? (
 				<EmptyCartText />
 			) : (
