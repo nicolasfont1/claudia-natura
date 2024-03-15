@@ -20,7 +20,12 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 				</CardOverflow>
 				<CardContent>
 					<Stack direction="row" justifyContent="space-between" sx={{ mb: 0.5 }}>
-						<Typography fontWeight="lg" level="body-sm" textColor="success.plainColor" lineHeight={1.1} sx={refillment ? {} : {mb: 1}}>
+						<Typography
+							fontWeight="lg"
+							level="body-sm"
+							textColor="success.plainColor"
+							lineHeight={1.1}
+							sx={refillment ? {} : { mb: 1 }}>
 							{name}
 						</Typography>
 						<Typography fontWeight="xs" level="body-xs" textColor="#9e9e9e" sx={{ ml: 1 }}>
@@ -28,7 +33,7 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 							{sizeUnit}
 						</Typography>
 					</Stack>
-					<Stack direction="column" justifyContent="space-between" sx={{ height: '100%'}}>
+					<Stack direction="column" justifyContent="space-between" sx={{ height: "100%" }}>
 						{refillment && (
 							<Typography level="body-xs" sx={{ opacity: 0.7 }} color="">
 								Repuestos disponibles
@@ -38,9 +43,9 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 						<Typography fontWeight="xs" level="body-xs" color="danger" sx={{ opacity: 0.8 }}>
 							Precio de revista: ${magazinePrice}
 						</Typography>
-					<Typography fontWeight="md" level="body-md" textColor="success.plainColor">
-						${price}
-					</Typography>
+						<Typography fontWeight="md" level="body-md" textColor="success.plainColor">
+							{price !== 0 ? `$${price}` : 'Consultar'}
+						</Typography>
 					</Stack>
 				</CardContent>
 			</Card>
