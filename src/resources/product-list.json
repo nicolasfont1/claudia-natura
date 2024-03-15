@@ -46,7 +46,7 @@
 	},
 	{
 		"id": "kaiak-clasico-masculino",
-		"name": "Kaiak clásico eau de toilette masculino",
+		"name": "Kaiak clasico eau de toilette masculino",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -106,7 +106,7 @@
 	},
 	{
 		"id": "luna-clasico-femenino",
-		"name": "Luna clásico eau de toilette femenino",
+		"name": "Luna clasico eau de toilette femenino",
 		"size": 75,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -248,7 +248,7 @@
 		"inmediateDelivery": false,
 		"magazinePrice": 31720,
 		"price": 17500,
-		"variants": ["pitanga", "ishpink", "maracuyá", "pitanga", "açaí", "castaña"],
+		"variants": ["pitanga", "ishpink", "maracuya", "pitanga", "açaí", "castaña"],
 		"vegan": true,
 		"made": ["Argentina"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8d43e0c9/NATARG-72859_1.jpg",
@@ -280,7 +280,7 @@
 	},
 	{
 		"id": "una-lapiz-pro-labial",
-		"name": "Una lápiz pro labial",
+		"name": "Una lapiz pro labial",
 		"size": 1.14,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -327,7 +327,7 @@
 	},
 	{
 		"id": "una-mascara-dos-en-uno",
-		"name": "Una Máscara 2 en 1",
+		"name": "Una Mascara 2 en 1",
 		"size": 10,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -343,7 +343,7 @@
 	},
 	{
 		"id": "mascara-cejas-marron",
-		"name": "Faces Máscara de cejas marrón",
+		"name": "Faces Mascara de cejas marrón",
 		"size": 3.5,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -358,7 +358,7 @@
 	},
 	{
 		"id": "mascara-fantastica",
-		"name": "Faces Máscara fantástica incolora",
+		"name": "Faces Mascara fantastica incolora",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -373,7 +373,7 @@
 	},
 	{
 		"id": "mascara-volume-fever",
-		"name": "Faces Máscara volume fever",
+		"name": "Faces Mascara volume fever",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -388,7 +388,7 @@
 	},
 	{
 		"id": "mascara-mega-fantastica",
-		"name": "Faces Máscara mega fantástica negra",
+		"name": "Faces Mascara mega fantastica negra",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -419,7 +419,7 @@
 	},
 	{
 		"id": "mascara-volumen-boost",
-		"name": "Faces Máscara volumen boost lavable",
+		"name": "Faces Mascara volumen boost lavable",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -434,7 +434,7 @@
 	},
 	{
 		"id": "mascara-alargamiento-pump",
-		"name": "Faces Máscara alargamiento pump lavable",
+		"name": "Faces Mascara alargamiento pump lavable",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -449,7 +449,7 @@
 	},
 	{
 		"id": "super-serum-reductor-arrugas",
-		"name": "Chronos Súper sérum reductor de arrugas",
+		"name": "Chronos Súper serum reductor de arrugas",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -465,7 +465,7 @@
 	},
 	{
 		"id": "mascara-facial-hidraglow",
-		"name": "Faces Máscara facial hidra glow",
+		"name": "Faces Mascara facial hidra glow",
 		"size": 50,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -627,7 +627,7 @@
 	},
 	{
 		"id": "nature-mistureba-jabones",
-		"name": "Naturé mistureba jabones en barra surtidos x4",
+		"name": "Nature mistureba jabones en barra surtidos x4",
 		"size": 90,
 		"sizeUnit": "g c/u",
 		"inmediateDelivery": false,
@@ -825,7 +825,7 @@
 	},
 	{
 		"id": "biografia-clasico-femenino",
-		"name": "Biografía clásico eau de toilette femenino",
+		"name": "Biografia clasico eau de toilette femenino",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -840,7 +840,7 @@
 	},
 	{
 		"id": "biografia-clasico-masculino",
-		"name": "Biografía clásico eau de toilette masculino",
+		"name": "Biografia clasico eau de toilette masculino",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -855,7 +855,7 @@
 	},
 	{
 		"id": "aguas-natura-femenino",
-		"name": "Águas de Natura fragancia femenina",
+		"name": "Aguas de Natura fragancia femenina",
 		"size": 150,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -870,7 +870,7 @@
 	},
 	{
 		"id": "srn-clasico-masculino",
-		"name": "Sr. N clásico eau de toilette masculino",
+		"name": "Sr. N clasico eau de toilette masculino",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1011,7 +1011,7 @@
 	},
 	{
 		"id": "una-serum-labial",
-		"name": "Una Serum labial incoloro",
+		"name": "Una serum labial incoloro",
 		"size": 1.8,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1090,7 +1090,7 @@
 	},
 	{
 		"id": "una-lapiz-hd-ojos",
-		"name": "Una Lápiz HD para ojos negro",
+		"name": "Una Lapiz HD para ojos negro",
 		"size": 1.2,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1121,7 +1121,7 @@
 	},
 	{
 		"id": "una-lapiz-retractil-negro",
-		"name": "Una Lápiz retráctil para ojos negro",
+		"name": "Una Lapiz retractil para ojos negro",
 		"size": 280,
 		"sizeUnit": "mg",
 		"inmediateDelivery": false,
@@ -1137,7 +1137,7 @@
 	},
 	{
 		"id": "una-lapiz-kajal",
-		"name": "Una Lápiz kajal para ojos",
+		"name": "Una Lapiz kajal para ojos",
 		"size": 1.14,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1153,7 +1153,7 @@
 	},
 	{
 		"id": "una-mascara-volumen",
-		"name": "Una Máscara volumen magnífico",
+		"name": "Una Mascara volumen magnífico",
 		"size": 8,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1169,7 +1169,7 @@
 	},
 	{
 		"id": "una-mascara-alargamiento",
-		"name": "Una Máscara alargamiento infinito",
+		"name": "Una Mascara alargamiento infinito",
 		"size": 8,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1185,7 +1185,7 @@
 	},
 	{
 		"id": "una-mascara-secret",
-		"name": "Una Máscara secret",
+		"name": "Una Mascara secret",
 		"size": 8,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1217,7 +1217,7 @@
 	},
 	{
 		"id": "una-lapiz-retractil-cejas",
-		"name": "Una Lápiz retráctil para cejas",
+		"name": "Una Lapiz retractil para cejas",
 		"size": 250,
 		"sizeUnit": "mg",
 		"inmediateDelivery": false,
@@ -1333,7 +1333,7 @@
 	},
 	{
 		"id": "una-base-serum-nude",
-		"name": "Una Base sérum nude me",
+		"name": "Una Base serum nude me",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1538,7 +1538,7 @@
 	},
 	{
 		"id": "una-pincel-pro-base",
-		"name": "Una Pincel pro para base líquida",
+		"name": "Una Pincel pro para base liquida",
 		"size": 0,
 		"sizeUnit": "",
 		"inmediateDelivery": false,
@@ -1609,7 +1609,7 @@
 	},
 	{
 		"id": "una-serum-unias-cuticulas",
-		"name": "Una Sérum de uñas y cutículas",
+		"name": "Una serum de uñas y cuticulas",
 		"size": 10,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1672,7 +1672,7 @@
 	},
 	{
 		"id": "delineador-liquido",
-		"name": "Faces Delineador líquido",
+		"name": "Faces Delineador liquido",
 		"size": 2.5,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1703,7 +1703,7 @@
 	},
 	{
 		"id": "base-liquida-check",
-		"name": "Faces Base líquida check mate",
+		"name": "Faces Base liquida check mate",
 		"size": 20,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1763,7 +1763,7 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw30ea0ba1/1200x1200/116693_1.jpg",
 		"cathegory": "rostro",
-		"info": "Larga duración",
+		"info": "Larga duracion",
 		"refillment": false
 	},
 	{
@@ -1784,7 +1784,7 @@
 	},
 	{
 		"id": "delineador-retractil",
-		"name": "Faces Delineador retráctil",
+		"name": "Faces Delineador retractil",
 		"size": 280,
 		"sizeUnit": "mg",
 		"inmediateDelivery": false,
@@ -1799,7 +1799,7 @@
 	},
 	{
 		"id": "mini-lapiz-ojos",
-		"name": "Faces Mini lápiz para ojos súper negro",
+		"name": "Faces Mini lapiz para ojos súper negro",
 		"size": 800,
 		"sizeUnit": "mg",
 		"inmediateDelivery": false,
@@ -1892,7 +1892,7 @@
 	},
 	{
 		"id": "lapiz-ojos",
-		"name": "Faces Lápiz para ojos",
+		"name": "Faces Lapiz para ojos",
 		"size": 1.3,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1907,7 +1907,7 @@
 	},
 	{
 		"id": "lapiz-cejas",
-		"name": "Faces Lápiz para cejas",
+		"name": "Faces Lapiz para cejas",
 		"size": 1.14,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1922,7 +1922,7 @@
 	},
 	{
 		"id": "lapiz-kajal-color-intenso",
-		"name": "Faces Lápiz Kajal color intenso",
+		"name": "Faces Lapiz Kajal color intenso",
 		"size": 1.3,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -1952,7 +1952,7 @@
 	},
 	{
 		"id": "multimascara-tint",
-		"name": "Faces Multimáscara tint a prueba de agua",
+		"name": "Faces Multimascara tint a prueba de agua",
 		"size": 7,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1967,7 +1967,7 @@
 	},
 	{
 		"id": "supermascara-tint",
-		"name": "Faces Supermáscara tint para pestañas lavable",
+		"name": "Faces Supermascara tint para pestañas lavable",
 		"size": 12,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -1982,7 +1982,7 @@
 	},
 	{
 		"id": "labial-liquido-mate",
-		"name": "Faces Labial líquido mate larga duración",
+		"name": "Faces Labial liquido mate larga duracion",
 		"size": 5.5,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2007,7 +2007,7 @@
 	},
 	{
 		"id": "lapiz-labios",
-		"name": "Faces Lápiz para labios",
+		"name": "Faces Lapiz para labios",
 		"size": 1.4,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2080,7 +2080,7 @@
 	},
 	{
 		"id": "serum-rellenador-biohidratante",
-		"name": "Chronos Sérum rellenador biohidratante",
+		"name": "Chronos serum rellenador biohidratante",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2127,7 +2127,7 @@
 	},
 	{
 		"id": "crema-antiseñales-redensificacion",
-		"name": "Chronos Crema antiseñales redensificación y revitalización",
+		"name": "Chronos Crema antiseñales redensificacion y revitalizacion",
 		"size": 40,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2175,7 +2175,7 @@
 	},
 	{
 		"id": "serum-intensivo-antioxidante",
-		"name": "Chronos Sérum intensivo antioxidante",
+		"name": "Chronos serum intensivo antioxidante",
 		"size": 15,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2190,7 +2190,7 @@
 	},
 	{
 		"id": "serum-intensivo-bolsas-ojeras",
-		"name": "Chronos Sérum intensivo para bolsas y ojeras",
+		"name": "Chronos serum intensivo para bolsas y ojeras",
 		"size": 15,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2221,7 +2221,7 @@
 	},
 	{
 		"id": "serum-intensivo-lifting",
-		"name": "Chronos Sérum intensivo lifting y firmeza",
+		"name": "Chronos serum intensivo lifting y firmeza",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2269,7 +2269,7 @@
 	},
 	{
 		"id": "jabon-crema-hidratante",
-		"name": "Chronos Jabón crema hidratante",
+		"name": "Chronos Jabon crema hidratante",
 		"size": 115,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2317,7 +2317,7 @@
 	},
 	{
 		"id": "mascara-arcilla-purificante",
-		"name": "Chronos Máscara de arcilla purificante",
+		"name": "Chronos Mascara de arcilla purificante",
 		"size": 70,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2333,7 +2333,7 @@
 	},
 	{
 		"id": "serum-nocturno-antioleosidad",
-		"name": "Chronos Sérum nocturno antioleosidad y poros",
+		"name": "Chronos serum nocturno antioleosidad y poros",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2365,7 +2365,7 @@
 	},
 	{
 		"id": "serum-intensivo-multiaclarador",
-		"name": "Chronos Sérum intensivo multiaclarador",
+		"name": "Chronos serum intensivo multiaclarador",
 		"size": 30,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2413,7 +2413,7 @@
 	},
 	{
 		"id": "jabon-limpieza-facial",
-		"name": "Faces Jabón de limpieza facial",
+		"name": "Faces Jabon de limpieza facial",
 		"size": 120,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2522,7 +2522,7 @@
 	},
 	{
 		"id": "ekos-serum-nocturno",
-		"name": "Ekos sérum nocturno",
+		"name": "Ekos serum nocturno",
 		"size": 30,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2553,7 +2553,7 @@
 	},
 	{
 		"id": "ekos-mascara-reconstruccion",
-		"name": "Ekos máscara de reconstrucción",
+		"name": "Ekos mascara de reconstrucción",
 		"size": 200,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2601,7 +2601,7 @@
 	},
 	{
 		"id": "ekos-mascara-capilar",
-		"name": "Ekos máscara capilar",
+		"name": "Ekos mascara capilar",
 		"size": 200,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2617,7 +2617,7 @@
 	},
 	{
 		"id": "ekos-nectar-manos",
-		"name": "Ekos Maracuyá néctar para manos",
+		"name": "Ekos Maracuya nectar para manos",
 		"size": 75,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2632,7 +2632,7 @@
 	},
 	{
 		"id": "ekos-nectar-hidratante-corporal",
-		"name": "Ekos Maracuyá néctar hidratante corporal",
+		"name": "Ekos Maracuya nectar hidratante corporal",
 		"size": 400,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2648,7 +2648,7 @@
 	},
 	{
 		"id": "ekos-fluido-masajes",
-		"name": "Ekos Maracuyá fluido de masajes",
+		"name": "Ekos Maracuya fluido de masajes",
 		"size": 100,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2663,7 +2663,7 @@
 	},
 	{
 		"id": "ekos-jabon-liquido-gel",
-		"name": "Ekos Maracuyá jabón líquido gel",
+		"name": "Ekos Maracuya jabon liquido gel",
 		"size": 195,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2679,7 +2679,7 @@
 	},
 	{
 		"id": "ekos-jabon-liquido-exfoliante",
-		"name": "Ekos Maracuyá jabón líquido exfoliante",
+		"name": "Ekos Maracuya jabon liquido exfoliante",
 		"size": 185,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2695,7 +2695,7 @@
 	},
 	{
 		"id": "ekos-oleo-trifasico-corporal",
-		"name": "Ekos Maracuyá óleo trifásico corporal",
+		"name": "Ekos Maracuya oleo trifasico corporal",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2711,7 +2711,7 @@
 	},
 	{
 		"id": "ekos-maracuya-jabon-liquido-manos",
-		"name": "Ekos Maracuyá jabón líquido para manos",
+		"name": "Ekos Maracuya jabon liquido para manos",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2727,7 +2727,7 @@
 	},
 	{
 		"id": "ekos-pitanga-jabon-liquido-gel",
-		"name": "Ekos Pitanga jabón líquido gel",
+		"name": "Ekos Pitanga jabon liquido gel",
 		"size": 195,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2743,7 +2743,7 @@
 	},
 	{
 		"id": "ekos-pitanga-jabon-liquido-manos",
-		"name": "Ekos Pitanga jabón líquido para manos",
+		"name": "Ekos Pitanga jabon liquido para manos",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2759,7 +2759,7 @@
 	},
 	{
 		"id": "ekos-pitanga-jabon-liquido-exfoliante",
-		"name": "Ekos Pitanga jabón líquido exfoliante",
+		"name": "Ekos Pitanga jabon liquido exfoliante",
 		"size": 185,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2775,7 +2775,7 @@
 	},
 	{
 		"id": "ekos-pitanga-oleo-trifasico-corporal",
-		"name": "Ekos Pitanga óleo trifásico corporal",
+		"name": "Ekos Pitanga oleo trifasico corporal",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2816,7 +2816,7 @@
 	},
 	{
 		"id": "ekos-pitanga-nectar-manos",
-		"name": "Ekos Pitanga néctar para manos",
+		"name": "Ekos Pitanga nectar para manos",
 		"size": 75,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2831,7 +2831,7 @@
 	},
 	{
 		"id": "ekos-ucuuba-pulpa-hidratante",
-		"name": "Ekos Ucuuba pulpa para manos y áreas resecas",
+		"name": "Ekos Ucuuba pulpa para manos y areas resecas",
 		"size": 75,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2877,7 +2877,7 @@
 	},
 	{
 		"id": "ekos-tukuma-pulpa-hidratante-manos",
-		"name": "Ekos Tukumá pulpa hidratante para manos",
+		"name": "Ekos Tukuma pulpa hidratante para manos",
 		"size": 75,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2892,7 +2892,7 @@
 	},
 	{
 		"id": "ekos-tukuma-balsamo-concetrado",
-		"name": "Ekos Tukumá bálsamo concentrado",
+		"name": "Ekos Tukuma bálsamo concentrado",
 		"size": 200,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -2907,7 +2907,7 @@
 	},
 	{
 		"id": "ekos-tukuma-pulpa-hidratante-corporal",
-		"name": "Ekos Tukumá pulpa hidratante corporal",
+		"name": "Ekos Tukuma pulpa hidratante corporal",
 		"size": 400,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -2923,7 +2923,7 @@
 	},
 	{
 		"id": "tododia-jabon-liquido-corporal",
-		"name": "Tododia jabón líquido corporal",
+		"name": "Tododia jabon liquido corporal",
 		"size": 300,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3069,7 +3069,7 @@
 	},
 	{
 		"id": "erva-doce-jabon-cremoso-manos",
-		"name": "Erva Doce jabón cremoso para manos",
+		"name": "Erva Doce jabon cremoso para manos",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3147,7 +3147,7 @@
 	},
 	{
 		"id": "locion-protectora-facial-fps-30",
-		"name": "Loción protectora facial FPS 30",
+		"name": "Locion protectora facial FPS 30",
 		"size": 50,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -3163,7 +3163,7 @@
 	},
 	{
 		"id": "locion-protectora-facial-fps-50",
-		"name": "Loción protectora facial FPS 50",
+		"name": "Locion protectora facial FPS 50",
 		"size": 50,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -3179,7 +3179,7 @@
 	},
 	{
 		"id": "locion-protectora-corporal-fps-30",
-		"name": "Loción protectora corporal FPS 30",
+		"name": "Locion protectora corporal FPS 30",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3194,7 +3194,7 @@
 	},
 	{
 		"id": "locion-protectora-corporal-fps-50",
-		"name": "Loción protectora corporal FPS 50",
+		"name": "Locion protectora corporal FPS 50",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3209,7 +3209,7 @@
 	},
 	{
 		"id": "locion-protectora-niños-fps-50",
-		"name": "Loción protectora para niños FPS 50",
+		"name": "Locion protectora para niños FPS 50",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3256,7 +3256,7 @@
 	},
 	{
 		"id": "lumina-mascara-regeneradora",
-		"name": "Lumina máscara regeneradora",
+		"name": "Lumina mascara regeneradora",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3272,7 +3272,7 @@
 	},
 	{
 		"id": "lumina-serum-regenerador",
-		"name": "Lumina sérum regenerador progresivo",
+		"name": "Lumina serum regenerador progresivo",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3299,7 +3299,7 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw134d37d1/NATARG-6070_1.jpg",
 		"cathegory": "cabello",
-		"info": "Con enjuage. Contiene primer 100ml y máscara 220ml.",
+		"info": "Con enjuage. Contiene primer 100ml y mascara 220ml.",
 		"refillment": false
 	},
 	{
@@ -3320,7 +3320,7 @@
 	},
 	{
 		"id": "lumina-acondicionador-poli-nutricion",
-		"name": "Lumina acondicionador poli nutrición",
+		"name": "Lumina acondicionador poli nutricion",
 		"size": 300,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3336,7 +3336,7 @@
 	},
 	{
 		"id": "lumina-mascara-reparadora",
-		"name": "Lumina máscara reparadora",
+		"name": "Lumina mascara reparadora",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3352,7 +3352,7 @@
 	},
 	{
 		"id": "lumina-crema-selladora-cuticulas",
-		"name": "Lumina crema para peinar selladora de cutículas",
+		"name": "Lumina crema para peinar selladora de cuticulas",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3368,7 +3368,7 @@
 	},
 	{
 		"id": "lumina-ampolla-reparacion",
-		"name": "Lumina ampolla reparación instantánea x4",
+		"name": "Lumina ampolla reparación instantanea x4",
 		"size": 20,
 		"sizeUnit": "ml c/u",
 		"inmediateDelivery": false,
@@ -3383,7 +3383,7 @@
 	},
 	{
 		"id": "lumina-oleo-reparador",
-		"name": "Lumina óleo reparador",
+		"name": "Lumina oleo reparador",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3428,7 +3428,7 @@
 	},
 	{
 		"id": "lumina-mascara-restauradora",
-		"name": "Lumina máscara restauradora",
+		"name": "Lumina mascara restauradora",
 		"size": 220,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3475,7 +3475,7 @@
 	},
 	{
 		"id": "lumina-mascara-recuperadora",
-		"name": "Lumina máscara recuperadora",
+		"name": "Lumina mascara recuperadora",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3538,7 +3538,7 @@
 	},
 	{
 		"id": "lumina-oleo-multifuncional",
-		"name": "Lumina óleo multifuncional",
+		"name": "Lumina oleo multifuncional",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3600,7 +3600,7 @@
 	},
 	{
 		"id": "lumina-mascara-antiquiebre",
-		"name": "Lumina máscara antiquiebre",
+		"name": "Lumina mascara antiquiebre",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3616,7 +3616,7 @@
 	},
 	{
 		"id": "lumina-serum-nocturno",
-		"name": "Lumina sérum nocturno",
+		"name": "Lumina serum nocturno",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3850,7 +3850,7 @@
 	},
 	{
 		"id": "plant-mascara-reparadora",
-		"name": "Plant máscara reparadora",
+		"name": "Plant mascara reparadora",
 		"size": 250,
 		"sizeUnit": "g",
 		"inmediateDelivery": false,
@@ -3881,7 +3881,7 @@
 	},
 	{
 		"id": "nature-colonia",
-		"name": "Naturé colonia",
+		"name": "Nature colonia",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3896,7 +3896,7 @@
 	},
 	{
 		"id": "nature-toin-oin-oin-shampoo",
-		"name": "Naturé tóin óin óin shampoo cabello rizado",
+		"name": "Nature toin oin oin shampoo cabello rizado",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3912,7 +3912,7 @@
 	},
 	{
 		"id": "nature-toin-oin-oin-acondicionador",
-		"name": "Naturé tóin óin óin acondicionador cabello rizado",
+		"name": "Nature toin oin oin acondicionador cabello rizado",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3928,7 +3928,7 @@
 	},
 	{
 		"id": "nature-splack-shampoo",
-		"name": "Naturé splack! shampoo cabello liso",
+		"name": "Nature splack! shampoo cabello liso",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3944,7 +3944,7 @@
 	},
 	{
 		"id": "nature-splack-acondicionador",
-		"name": "Naturé splack! acondicionador cabello liso",
+		"name": "Nature splack! acondicionador cabello liso",
 		"size": 250,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3960,7 +3960,7 @@
 	},
 	{
 		"id": "mamaybebe-oleo-vegetal-baño",
-		"name": "Mamá y bebé óleo vegetal para baño",
+		"name": "Mama y bebe oleo vegetal para baño",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3975,7 +3975,7 @@
 	},
 	{
 		"id": "mamaybebe-emulsion-prevencion-estrias",
-		"name": "Mamá y bebé emulsión auxiliar para la prevención de estrías",
+		"name": "Mama y bebe emulsión auxiliar para la prevención de estrías",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -3990,7 +3990,7 @@
 	},
 	{
 		"id": "mamaybebe-jabones-barra",
-		"name": "Mamá y bebé jabones en barra x5",
+		"name": "Mama y bebe jabones en barra x5",
 		"size": 100,
 		"sizeUnit": "g c/u",
 		"inmediateDelivery": false,
@@ -4005,7 +4005,7 @@
 	},
 	{
 		"id": "mamaybebe-agua-colonia",
-		"name": "Mamá y bebé agua de colonia",
+		"name": "Mama y bebe agua de colonia",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -4020,7 +4020,7 @@
 	},
 	{
 		"id": "mamaybebe-oleo-masajes",
-		"name": "Mamá y bebé óleo para masajes",
+		"name": "Mama y bebe oleo para masajes",
 		"size": 100,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -4035,7 +4035,7 @@
 	},
 	{
 		"id": "mamaybebe-toallitas-limpieza",
-		"name": "Mamá y bebé toallitas de limpieza x50",
+		"name": "Mama y bebe toallitas de limpieza x50",
 		"size": 0,
 		"sizeUnit": "",
 		"inmediateDelivery": false,
@@ -4050,7 +4050,7 @@
 	},
 	{
 		"id": "mamaybebe-shampoo",
-		"name": "Mamá y bebé shampoo",
+		"name": "Mama y bebe shampoo",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -4066,7 +4066,7 @@
 	},
 	{
 		"id": "mamaybebe-locion-hidratante",
-		"name": "Mamá y bebé loción hidratante tradicional",
+		"name": "Mama y bebe locion hidratante tradicional",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
@@ -4082,7 +4082,7 @@
 	},
 	{
 		"id": "mamaybebe-jabon-liquido",
-		"name": "Mamá y bebé jabón líquido",
+		"name": "Mama y bebe jabon liquido",
 		"size": 200,
 		"sizeUnit": "ml",
 		"inmediateDelivery": false,
