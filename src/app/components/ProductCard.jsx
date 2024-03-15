@@ -28,7 +28,7 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 							{sizeUnit}
 						</Typography>
 					</Stack>
-					<Stack direction="column">
+					<Stack direction="column" justifyContent="space-between" sx={{ height: '100%'}}>
 						{refillment && (
 							<Typography level="body-xs" sx={{ opacity: 0.7 }} color="">
 								Repuestos disponibles
@@ -38,10 +38,10 @@ const ProductCard = ({ id, name, size, inmediateDelivery, magazinePrice, price, 
 						<Typography fontWeight="xs" level="body-xs" color="danger" sx={{ opacity: 0.8 }}>
 							Precio de revista: ${magazinePrice}
 						</Typography>
-					</Stack>
 					<Typography fontWeight="md" level="body-md" textColor="success.plainColor">
 						${price}
 					</Typography>
+					</Stack>
 				</CardContent>
 			</Card>
 		</Link>
