@@ -45,7 +45,7 @@ const ProductList = () => {
 	const handleClearInput = () => {
 		setShowingSearch(false);
 		setProductName("");
-		setProductCathegory(null)
+		setProductCathegory(null);
 		setCurrentProductAmount(9);
 		setProductList([...ProductsJSON.slice(0, 9)]);
 	};
@@ -130,6 +130,9 @@ const ProductList = () => {
 								</Typography>
 								<Typography fontWeight="lg" level="h3" textColor="neutral.700">
 									:(
+								</Typography>
+								<Typography fontWeight="lg" level="body-xs" textColor="neutral.500" sx={{ mt: 2 }}>
+									(Podés probar escribiendo las palabras sin tilde)
 								</Typography>
 							</Stack>
 						)}
