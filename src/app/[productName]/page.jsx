@@ -38,7 +38,7 @@ const Page = () => {
 		name: product.name,
 		image: product.image,
 		variant: "",
-		amount: 0,
+		amount: 1,
 		price: product.price,
 	});
 
@@ -47,6 +47,10 @@ const Page = () => {
 
 	const addItemToCart = () => {
 		if (selectedProduct.variant || product.variants.length === 0) {
+			dispatch(addItem(selectedProduct));
+			setOpenSnackbarSuccess(true);
+			setShowGoBack(true);
+		} else if (product.price === 0) {
 			dispatch(addItem(selectedProduct));
 			setOpenSnackbarSuccess(true);
 			setShowGoBack(true);
@@ -266,7 +270,7 @@ const Page = () => {
 								Agregar a mi pedido
 							</Button>
 						) : (
-							<Button sx={{ width: "100%", my: 3 }} color="warning" variant="outlined" onClick={() => router.push("/")}>
+							<Button sx={{ width: "100%", my: 3 }} color="warning" variant="solid" onClick={() => router.push("/")}>
 								Volver al catálogo
 							</Button>
 						)}
