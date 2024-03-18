@@ -9,7 +9,7 @@ const EmptyCartText = () => {
 			direction="column"
 			justifyContent="center"
 			alignItems="center"
-			sx={{ minHeight: "100svh", textAlign: "center" }}>
+			sx={{ minHeight: "70vh", textAlign: "center" }}>
 			<Box sx={{ mb: 3 }}>
 				<Typography fontWeight="md" level="h3" color="neutral.600">
 					Aún no agregaste productos
