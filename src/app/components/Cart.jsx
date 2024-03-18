@@ -29,7 +29,7 @@ const Cart = () => {
 			wspQuery = wspQuery + `${product.variant ? `_${product.variant}_%0A` : ""}`;
 			wspQuery =
 				wspQuery +
-				`${product.amount ? `%2A${product.amount}%2A+${product.amount === 1 ? "unidad" : "unidades"}%0A` : ""}`;
+				`${product.price ? `%2A${product.amount}%2A+${product.amount === 1 ? "unidad" : "unidades"}%0A` : ""}`;
 			wspQuery = wspQuery + `${product.price === 0 ? 'Consulta de precio' : `$${product.price * product.amount}`}%0A———————————%0A`;
 		});
 
