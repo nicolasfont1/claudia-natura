@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Clau-tálogo de Natura",
   description: "Catálogo de productos Natura de la Seño Claudia.",
+  metadataBase: new URL("https://claudia-natura.vercel.app/")
 };
 
 export default function RootLayout({ children }) {
