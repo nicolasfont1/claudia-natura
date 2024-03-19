@@ -96,7 +96,7 @@
 		"made": ["Brasil"],
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7a3f9154/NATARG-74849_1.jpg",
 		"cathegory": "crema",
-		"refillment": true
+		"refillment": false
 	},
 	{
 		"id": "tododia-desodorante-roll-on",
