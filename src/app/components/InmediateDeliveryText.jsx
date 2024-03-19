@@ -1,7 +1,7 @@
 "use client";
 import { usePathname } from "next/navigation";
 import Typography from "@mui/joy/Typography";
-import CheckIcon from "@mui/icons-material/Check";
+import LocalShippingIcon from '@mui/icons-material/LocalShipping';
 
 const InmediateDeliveryText = () => {
 	const path = usePathname();
@@ -14,7 +14,7 @@ const InmediateDeliveryText = () => {
 			textColor={isProductList ? "#909497" : "neutral.200"}
 			sx={{ mr: 1 }}
 			startDecorator={
-				<CheckIcon
+				<LocalShippingIcon
 					sx={{ fontSize: `${isProductList ? "15" : "18"}`, color: `${isProductList ? "#909497" : "neutral.200"}` }}
 				/>
 			}>
