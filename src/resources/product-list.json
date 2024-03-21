@@ -25,7 +25,7 @@
 		"variants": ["pitanga", "ishpink", "maracuya", "pitanga", "açaí", "castaña"],
 		"vegan": true,
 		"made": ["Argentina"],
-		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8d43e0c9/NATARG-72859_1.jpg",
+		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8123e350/1200x1200/18403_1.jpg",
 		"cathegory": "perfume",
 		"info": "Repuestos disponibles, consultar precios.",
 		"refillment": true
@@ -3046,21 +3046,6 @@
 		"image": "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw60e26e53/1200x1200/117687_1.jpg",
 		"cathegory": "crema",
 		"info": "Textura en gel con semillas de damasco que exfolian removiendo las impurezas profundas.",
-		"refillment": false
-	},
-	{
-		"id": "homem-desodorante-roll-on",
-		"name": "Homem desodorante roll on",
-		"size": 75,
-		"sizeUnit": "ml",
-		"inmediateDelivery": false,
-		"magazinePrice": 3740,
-		"price": 0,
-		"variants": [],
-		"vegan": true,
-		"made": ["Argentina", "Brasil"],
-		"image": "https://staticpe.natura.com/cdn/ff/tKzlGrIUA9IMuQxbM6J9sOAgkGsAT4GHBDk_vwjQ_-o/1704883330/public/products/72860_1_18.jpg",
-		"cathegory": "desodorante",
 		"refillment": false
 	},
 	{
