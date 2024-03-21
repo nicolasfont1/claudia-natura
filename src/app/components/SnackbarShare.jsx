@@ -1,3 +1,4 @@
+import Button from "@mui/joy/Button";
 import Snackbar from "@mui/joy/Snackbar";
 import SentimentDissatisfiedIcon from '@mui/icons-material/SentimentDissatisfied';
 
@@ -16,7 +17,12 @@ const SnackbarShare = ({openSnackbarShare, setOpenSnackbarShare}) => {
 			onClose={() => {
 				setOpenSnackbarShare(false);
 			}}
-			startDecorator={<SentimentDissatisfiedIcon />}>
+			startDecorator={<SentimentDissatisfiedIcon />}
+			endDecorator={
+				<Button onClick={() => setOpenSnackbarShare(false)} size="xs" variant="soft" color="warning">
+					✕
+				</Button>
+			}>
 			Tu navegador no es compatible con esta función.
 		</Snackbar>
 	);

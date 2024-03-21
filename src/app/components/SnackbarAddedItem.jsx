@@ -1,10 +1,11 @@
+import Button from "@mui/joy/Button";
 import Snackbar from "@mui/joy/Snackbar";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 
-const SnackbarAddedItem = ({openSnackbarSuccess, setOpenSnackbarSuccess}) => {
-  const vertical = "top";
-  const horizontal = "center";
-  
+const SnackbarAddedItem = ({ openSnackbarSuccess, setOpenSnackbarSuccess }) => {
+	const vertical = "top";
+	const horizontal = "center";
+
 	return (
 		<Snackbar
 			anchorOrigin={{ vertical, horizontal }}
@@ -16,7 +17,12 @@ const SnackbarAddedItem = ({openSnackbarSuccess, setOpenSnackbarSuccess}) => {
 			onClose={() => {
 				setOpenSnackbarSuccess(false);
 			}}
-			startDecorator={<CheckCircleIcon />}>
+			startDecorator={<CheckCircleIcon />}
+			endDecorator={
+				<Button onClick={() => setOpenSnackbarSuccess(false)} size="xs" variant="soft" color="success">
+					✕
+				</Button>
+			}>
 			¡El producto se sumó a tu pedido!
 		</Snackbar>
 	);
