@@ -131,8 +131,8 @@ const ProductList = () => {
 								<Typography fontWeight="lg" level="h3" textColor="neutral.700">
 									:(
 								</Typography>
-								<Typography fontWeight="lg" level="body-xs" textColor="neutral.500" sx={{ mt: 2 }}>
-									(Podés probar escribiendo las palabras sin tilde)
+								<Typography fontWeight="lg" level="body-xs" textColor="neutral.500" sx={{ mt: 2, mx: 5 }} textAlign="center">
+									(De momento el buscador no funciona con palabras clave, la búsqueda se hace entre los <strong>nombres</strong> de los productos)
 								</Typography>
 							</Stack>
 						)}
