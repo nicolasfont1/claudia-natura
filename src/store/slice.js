@@ -11,10 +11,9 @@ export const Slice = createSlice({
     },
     deleteItem: (state, action) => {
       state.cart = state.cart.filter((product) => {
-        return (product.name !== action.payload.name || product.variant !== action.payload.variant)
+        return (product.id !== action.payload.id)
       })
     }
-    //revisar que cuando pongo productos iguales se borran todos
   }
 })
 
