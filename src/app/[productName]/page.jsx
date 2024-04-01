@@ -35,6 +35,7 @@ const Page = () => {
 	const product = ProductJSON.find((product) => product.id === path.replace("/", ""));
 
 	const [selectedProduct, setSelectedProduct] = useState({
+		id: Math.floor(Math.random() * 100),
 		name: product.name,
 		image: product.image,
 		variant: "",
