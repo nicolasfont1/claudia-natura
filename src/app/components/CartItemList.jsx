@@ -12,6 +12,7 @@ const CartItemList = ({ cartState }) => {
           variant={product.variant}
           amount={product.amount}
           price={product.price}
+          id={product.id}
         />;
 			})}
 		</Stack>
