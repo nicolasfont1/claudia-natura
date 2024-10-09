@@ -8,12 +8,15 @@ import { useEffect } from "react";
 
 const Page = () => {
   useEffect(() => {
-    const timer = setTimeout(() => {
-      window.location.href = 'https://wa.me/3513924836';
-    }, 5000);
+    // Verificamos si estamos en el navegador
+    if (typeof window !== 'undefined') {
+      const timer = setTimeout(() => {
+        window.location.href = 'https://wa.me/3513924836';
+      }, 5000);
 
-    return () => clearTimeout(timer);
-  }, [window.location.href]);
+      return () => clearTimeout(timer);
+    }
+  }, []);
 
   return (
     <Stack alignItems="center" sx={{ background: "#a79690", height: "100vh" }}>
